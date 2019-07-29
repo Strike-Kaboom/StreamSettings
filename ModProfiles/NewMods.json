@@ -14,10 +14,8 @@
     "buttonSequencesModule",
     "complicatedButtonsModule",
     "symbolicPasswordModule",
-    "elderFuthark",
     "ColorMorseModule",
     "hexabutton",
-    "lgndGadgetronVendor",
     "ColorfulInsanity",
     "melodySequencer",
     "simonSounds",
@@ -422,7 +420,10 @@
     "vigenereCipher",
     "langtonAnt",
     "raidingTemples",
-    "oldFogey"
+    "oldFogey",
+    "snakesAndLadders",
+    "insanagrams",
+    "bootTooBig"
   ],
   "Operation": 1
 }

@@ -4,7 +4,8 @@
     "thewitness",
     "TextAdventureModule",
     "KritConnectionDev",
-    "BusGameplayRoom"
+    "BusGameplayRoom",
+    "snakesAndLadders"
   ],
   "Operation": 1
 }

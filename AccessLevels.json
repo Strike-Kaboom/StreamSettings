@@ -1,8 +1,8 @@
 {
   "StickyBans": false,
-  "MinimumAccessLevelForBanCommand": "Mod",
+  "MinimumAccessLevelForBanCommand": "Admin",
   "MinimumAccessLevelForTimeoutCommand": "Mod",
-  "MinimumAccessLevelForUnbanCommand": "Mod",
+  "MinimumAccessLevelForUnbanCommand": "Admin",
   "UserAccessLevel": {
     "strike_kaboom": "Mod, Admin, SuperUser, Streamer",
     "seanktane": "Admin",
@@ -17,7 +17,7 @@
     "mix2013_1": "User",
     "rdzanu": "Defuser",
     "tactful_tactics": "Admin",
-    "punchingtitan88": "Defuser",
+    "punchingtitan88": "Defuser, Admin",
     "jordashstreams": "User",
     "redpenguinxd": "Defuser",
     "epictho": "Defuser",
@@ -326,7 +326,8 @@
     "powling": "User",
     "pcowpcow": "User",
     "geisterhose89": "User",
-    "fabi_m": "User"
+    "fabi_m": "User",
+    "k_s_": "User"
   },
   "Bans": {
     "bomb_griefer": {
