@@ -1,0 +1,9 @@
+{
+  "DisabledList": [
+    "HotPotato",
+    "QRCode",
+    "MotionSense",
+    "EncryptedValuesModule"
+  ],
+  "Operation": 1
+}

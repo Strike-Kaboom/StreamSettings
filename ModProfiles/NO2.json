@@ -1,0 +1,9 @@
+{
+  "DisabledList": [
+    "LightsOut",
+    "EdgeworkModule",
+    "monsplodeWho",
+    "http"
+  ],
+  "Operation": 1
+}

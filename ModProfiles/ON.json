@@ -1,0 +1,10 @@
+{
+  "DisabledList": [
+    "FactoryRoom",
+    "thewitness",
+    "TextAdventureModule",
+    "KritConnectionDev",
+    "BusGameplayRoom"
+  ],
+  "Operation": 1
+}
