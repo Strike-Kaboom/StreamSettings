@@ -5,7 +5,8 @@
     "TextAdventureModule",
     "KritConnectionDev",
     "BusGameplayRoom",
-    "snakesAndLadders"
+    "snakesAndLadders",
+	"tashaSqueals"
   ],
   "Operation": 1
 }
