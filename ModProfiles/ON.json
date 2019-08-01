@@ -6,7 +6,8 @@
     "KritConnectionDev",
     "BusGameplayRoom",
     "snakesAndLadders",
-	"tashaSqueals"
+    "tashaSqueals",
+    "moduleMovements"
   ],
   "Operation": 1
 }
