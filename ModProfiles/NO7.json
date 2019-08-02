@@ -37,7 +37,9 @@
     "NeedyKnobV2",
     "NeedyVentV2",
     "EncryptedValuesModule",
-    "aa"
+    "aa",
+    "lgndAnnoyingArrows",
+    "romanNumeralsModule"
   ],
   "Operation": 1
 }
