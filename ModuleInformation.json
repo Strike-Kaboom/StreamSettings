@@ -4687,7 +4687,7 @@
     "strikePenalty": -6,
     "moduleScoreIsDynamic": false,
     "helpTextOverride": false,
-    "helpText": null,
+    "helpText": "Use '!{0} press <button>' to press a button. Valid buttons are: up, down, left, right, screen. You can use u; d; l; r for the directions. (Please don't use capitals!) You can also chain the buttons. For ex. '{0} press screen up down display'",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightOverride": false,
