@@ -6,7 +6,9 @@
     "KritConnectionDev",
     "BusGameplayRoom",
     "snakesAndLadders",
-    "tashaSqueals"
+    "tashaSqueals",
+    "StareModule",
+	"Yoinkingmodule"
   ],
   "Operation": 1
 }
