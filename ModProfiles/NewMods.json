@@ -423,7 +423,11 @@
     "oldFogey",
     "snakesAndLadders",
     "insanagrams",
-    "bootTooBig"
+    "bootTooBig",
+    "elderFuthark",
+    "lgndGadgetronVendor",
+    "moduleMovements",
+    "ultimateCipher"
   ],
   "Operation": 1
 }
