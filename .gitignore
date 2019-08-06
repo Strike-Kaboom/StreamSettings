@@ -12,8 +12,6 @@ modSettings.xml
 modSelectorConfig.json
 demoSettings.xml
 ModProfiles/TP_Supported.json
-ModProfiles/SamuelN19-6-9.json
-ModProfiles/Rumble.json
 ModProfiles/Practice.json
 ModProfiles/NoBC.json
 ModProfiles/NoAstro.json
@@ -25,7 +23,6 @@ ModProfiles/Justin.json
 ModProfiles/Everything.json
 ModProfiles/Edit.json
 ModProfiles/Defuser VETO.json
-ModProfiles/AaronV2.2 (1).json
 AuditLog.txt
 best_times.xml
 ModProfiles/Nothing.json
@@ -37,20 +34,12 @@ ModProfiles/NoAlg.json
 ModProfiles/NoAlc.json
 ModProfiles/NoAdj.json
 ModProfiles/No101.json
-ModProfiles/LandFishInfinityWar (1).json
 ModProfiles/DisableTP.json
 ModProfiles/Work.json
 ModProfiles/Vanilla.json
-ModProfiles/Timwi.json
-ModProfiles/Tathra_4.2.json
 ModProfiles/NoBattle.json
 ModProfiles/NoArith.json
 ModProfiles/NoAna.json
-ModProfiles/LamaSK--_new.json
-ModProfiles/shredP.json
-ModProfiles/numdegasedoptimalexpertingprofile.json
-ModProfiles/kavinkul_12.json
-ModProfiles/brad6_15_21.json
 ModProfiles/NoBases.json
 ModProfiles/NoBar.json
 ModProfiles/No3DT.json
