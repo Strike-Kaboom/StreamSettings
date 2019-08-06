@@ -204,7 +204,7 @@
     "timwiterby": "Defuser",
     "lmbagdade": "User",
     "namaztaktheundying": "User",
-    "objectscountries": "User",
+    "objectscountries": "Banned",
     "bomb_griefer": "Banned",
     "draykiencyndrak": "User",
     "ry00001": "User",
@@ -378,6 +378,11 @@
       "BanExpiry": "Infinity"
     },
     "iyankitgood": {
+      "BannedBy": "Strike_Kaboom",
+      "BannedReason": null,
+      "BanExpiry": "Infinity"
+    },
+    "objectscountries": {
       "BannedBy": "Strike_Kaboom",
       "BannedReason": null,
       "BanExpiry": "Infinity"
