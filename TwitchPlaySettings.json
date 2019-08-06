@@ -77,6 +77,7 @@
     "NoFE",
     "NoFT",
     "NoFTA",
+    "NoFUN",
     "NoStages",
     "NoKey",
     "NoKeys",
@@ -139,7 +140,7 @@
   "ModPermissions": {
     "BombCreatorEnabled": true,
     "BombCreatorAllowedMoreThanFiveNeedyModules": false,
-    "BombCreatorAllowedToChangeVanillaSeed": false,
+    "BombCreatorAllowedToChangeVanillaSeed": true,
     "BombCreatorAllowedToExceed199CombinedModules": false,
     "BombCreatorAllowedToChangeTimeModeTimeLimit": false,
     "BombCreatorAllowedToHaveMoreNeedyThanSolvable": false
