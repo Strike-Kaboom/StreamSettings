@@ -431,7 +431,17 @@
     "bamboozledAgain",
     "qwirkle",
     "treasureHunt",
-    "Yoinkingmodule"
+    "Yoinkingmodule",
+    "affineCycle",
+    "booleanWires",
+    "caesarCycle",
+    "colourTalk",
+    "doubleArrows",
+    "forgetUsNot",
+    "pigpenCycle",
+    "playfairCycle",
+    "partialDerivatives",
+    "vectorsModule"
   ],
   "Operation": 1
 }
