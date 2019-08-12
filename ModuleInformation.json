@@ -469,6 +469,24 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Alpha-Bits",
+    "moduleID": "alphaBits",
+    "moduleScoreOverride": false,
+    "moduleScore": 5.0,
+    "moduleScoreIsDynamic": false,
+    "helpTextOverride": false,
+    "helpText": "Type '!{0} submit <letter1> <letter2>' to submit a full stage. Type '!{0} submit <letter>' to submit a single answer. The first stage must be submitted before the second.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightOverride": false,
+    "statusLightLeft": false,
+    "statusLightDown": false,
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Alphebtic Order",
     "moduleID": "alphabeticOrder",
     "moduleScoreOverride": false,
@@ -4981,7 +4999,7 @@
     "helpTextOverride": false,
     "helpText": "Submit an answer with !{0} submit -47.",
     "manualCodeOverride": false,
-    "manualCode": null,
+    "manualCode": "Math",
     "statusLightOverride": false,
     "statusLightLeft": false,
     "statusLightDown": false,

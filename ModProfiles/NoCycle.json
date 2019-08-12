@@ -1,0 +1,10 @@
+{
+  "DisabledList": [
+    "jumbleCycle",
+    "caesarCycle",
+    "pigpenCycle",
+    "playfairCycle",
+	"affineCycle"
+  ],
+  "Operation": 1
+}

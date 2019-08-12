@@ -80,6 +80,7 @@
     "NoFTA",
     "NoFUN",
     "NoStages",
+    "NoCycle",
     "NoKey",
     "NoKeys",
     "NoOrgan",
