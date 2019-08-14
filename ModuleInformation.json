@@ -3236,7 +3236,7 @@
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "helpTextOverride": false,
-    "helpText": "Type '!{0} 1337' to input number 1337, then use '!{0} submit' to submit it.",
+    "helpText": "Type '!{0} 1337' to add 1337 to the display, or use '!{0} -1337' to subtract 1337 from the display. Use '!{0} submit' to submit the display.",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightOverride": false,
