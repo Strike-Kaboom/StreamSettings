@@ -225,7 +225,7 @@
     "moduleScore": 12.0,
     "moduleScoreIsDynamic": false,
     "helpTextOverride": true,
-    "helpText": "!4 move L F R F U [move] | !4 walk L F R F U [walk slower] [L = left, R = right, F = forward, U = u-turn]",
+    "helpText": "!{0) move L F R F U [move] | !4 walk L F R F U [walk slower] [L = left, R = right, F = forward, U = u-turn]",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightOverride": false,
