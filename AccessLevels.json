@@ -5,7 +5,7 @@
   "MinimumAccessLevelForUnbanCommand": "Admin",
   "UserAccessLevel": {
     "strike_kaboom": "Mod, Admin, SuperUser, Streamer",
-    "seanktane": "Admin",
+    "seanktane": "Admin, SuperUser",
     "romz3k57": "User",
     "exish": "User",
     "madela": "Defuser",
@@ -329,7 +329,14 @@
     "fabi_m": "User",
     "k_s_": "User",
     "1geniusone": "User",
-    "yayvinny": "User"
+    "yayvinny": "User",
+    "fartlicker777": "User",
+    "fang__1217": "User",
+    "beatleboy": "User",
+    "dangancomic": "User",
+    "matt12baseball0": "User",
+    "denver275": "User",
+    "denisfdenis": "User"
   },
   "Bans": {
     "bomb_griefer": {
