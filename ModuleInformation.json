@@ -8516,7 +8516,7 @@
     "moduleScore": 17.0,
     "moduleScoreIsDynamic": false,
     "helpTextOverride": true,
-    "helpText": "To press a button, use “!{0} press R, G, B, Inner or Outer”.\\nPress the screen with “ !{0} press screen ”\\n To press a button at a specified time, use “at <time>”, for example “!{0} press Inner at 0:44”",
+    "helpText": "To press a button, use !{0} press R, G, B, Inner or Outer. Press the screen with !{0} press screen. To press a button at a specified time, use !{0} press <button> at <time>. For example, !{0} press Inner at 0:44",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightOverride": false,
