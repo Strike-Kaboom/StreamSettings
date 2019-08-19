@@ -4963,7 +4963,7 @@
     "moduleDisplayName": "Needy Capacitor",
     "moduleID": "NeedyDischargeComponentSolver",
     "moduleScoreOverride": false,
-    "moduleScore": 0.03,
+    "moduleScore": 0.01,
     "moduleScoreIsDynamic": false,
     "scoreMethod": "NeedyTime",
     "helpTextOverride": false,
