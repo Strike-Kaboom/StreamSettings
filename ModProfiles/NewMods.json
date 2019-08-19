@@ -441,7 +441,11 @@
     "pigpenCycle",
     "playfairCycle",
     "partialDerivatives",
-    "vectorsModule"
+    "vectorsModule",
+    "flowerPatch",
+    "qkForgetPerspective",
+    "jumbleCycle",
+    "organizationModule"
   ],
   "Operation": 1
 }
