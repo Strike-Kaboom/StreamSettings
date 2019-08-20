@@ -69,8 +69,8 @@
   "CustomMissions": {},
   "ProfileWhitelist": [
     "NoAnts",
-    "NoRAdj",
     "NoBA",
+    "NoCube",
     "NoDivided",
     "NoEnigma",
     "NoFMN",
