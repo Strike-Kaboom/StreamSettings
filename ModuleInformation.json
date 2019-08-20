@@ -4834,7 +4834,7 @@
     "manualCode": "Morse-A-Maze",
     "statusLightOverride": false,
     "statusLightLeft": false,
-    "statusLightDown": false,
+    "statusLightDown": true,
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": true,
