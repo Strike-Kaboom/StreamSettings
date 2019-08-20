@@ -1505,7 +1505,7 @@
   {
     "moduleDisplayName": "Colo(u)r Talk",
     "moduleID": "colourTalk",
-    "moduleScoreOverride": false,
+    "moduleScoreOverride": true,
     "moduleScore": 4.0,
     "moduleScoreIsDynamic": false,
     "helpTextOverride": false,
@@ -2326,7 +2326,7 @@
   {
     "moduleDisplayName": "Double Arrows",
     "moduleID": "doubleArrows",
-    "moduleScoreOverride": false,
+    "moduleScoreOverride": true,
     "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "helpTextOverride": false,
@@ -2929,7 +2929,7 @@
   {
     "moduleDisplayName": "Flower Patch",
     "moduleID": "flowerPatch",
-    "moduleScoreOverride": false,
+    "moduleScoreOverride": true,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "helpTextOverride": false,
@@ -7591,7 +7591,7 @@
   {
     "moduleDisplayName": "The Clock",
     "moduleID": "TheClockModule",
-    "moduleScoreOverride": false,
+    "moduleScoreOverride": true,
     "moduleScore": 6.0,
     "moduleScoreIsDynamic": false,
     "helpTextOverride": false,
