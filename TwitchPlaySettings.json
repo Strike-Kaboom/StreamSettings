@@ -68,7 +68,7 @@
   "InstantModuleClaimCooldownExpiry": 3600,
   "CustomMissions": {},
   "ProfileWhitelist": [
-    "(Semi)Boss_Profiles",
+    "Boss_Profiles",
     "NoFMN",
     "NoFE",
     "NoFP",
