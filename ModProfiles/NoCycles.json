@@ -4,7 +4,9 @@
     "caesarCycle",
     "pigpenCycle",
     "playfairCycle",
-	"affineCycle"
+    "affineCycle",
+    "ultimateCycle",
+    "hillCycle"
   ],
   "Operation": 1
 }
