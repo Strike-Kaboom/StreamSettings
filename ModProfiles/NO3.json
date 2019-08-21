@@ -1,9 +1,10 @@
 {
   "DisabledList": [
     "Needy Math",
-    "NeedyVentV2",
-    "lgndSnap",
-    "aa"
+    "aa",
+    "QRCode",
+    "NeedyKnobV2",
+    "monsplodeWho"
   ],
   "Operation": 1
 }

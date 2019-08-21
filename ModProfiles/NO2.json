@@ -1,9 +1,9 @@
 {
   "DisabledList": [
+    "spwizTetris",
     "LightsOut",
     "EdgeworkModule",
-    "monsplodeWho",
-    "http"
+    "EncryptedValuesModule"
   ],
   "Operation": 1
 }
