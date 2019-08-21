@@ -4388,6 +4388,24 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Matchematics",
+    "moduleID": "matchematics",
+    "moduleScoreOverride": false,
+    "moduleScore": 5.0,
+    "moduleScoreIsDynamic": false,
+    "helpTextOverride": false,
+    "helpText": "To write digits into the module. Use \"type/submit [3 digits]\" (submit presses the CONFIRM button). use \"reset\" to press the reset button.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightOverride": false,
+    "statusLightLeft": false,
+    "statusLightDown": false,
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Maze",
     "moduleID": "InvisibleWallsComponentSolver",
     "moduleScoreOverride": false,
