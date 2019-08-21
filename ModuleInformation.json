@@ -3813,7 +3813,7 @@
     "helpTextOverride": false,
     "helpText": "!{0} QWERTYUI [Inputs letters] | !{0} cancel [Deletes inputs]",
     "manualCodeOverride": true,
-    "manualCode": "https://github.com/Speakingevil/jumble-cycle/blob/master/Manual/pdfs/Modules/Jumble%20Cycle.pdf",
+    "manualCode": "https://ktane.timwi.de/HTML/Jumble%20Cycle.html",
     "statusLightOverride": false,
     "statusLightLeft": false,
     "statusLightDown": false,
