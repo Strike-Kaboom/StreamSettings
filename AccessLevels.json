@@ -338,7 +338,9 @@
     "denver275": "User",
     "denisfdenis": "User",
     "lucas7yoshi": "User",
-    "lock123": "User"
+    "lock123": "Banned",
+    "heres_fangy": "User",
+    "6666666666666": "User"
   },
   "Bans": {
     "bomb_griefer": {
@@ -392,6 +394,11 @@
       "BanExpiry": "Infinity"
     },
     "objectscountries": {
+      "BannedBy": "Strike_Kaboom",
+      "BannedReason": null,
+      "BanExpiry": "Infinity"
+    },
+    "lock123": {
       "BannedBy": "Strike_Kaboom",
       "BannedReason": null,
       "BanExpiry": "Infinity"
