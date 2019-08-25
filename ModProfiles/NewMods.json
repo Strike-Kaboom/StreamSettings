@@ -444,7 +444,12 @@
     "flowerPatch",
     "qkForgetPerspective",
     "jumbleCycle",
-    "organizationModule"
+    "organizationModule",
+    "alphaBits",
+    "Krit4CardMonte",
+    "hillCycle",
+    "simonsOnFirst",
+    "ultimateCycle"
   ],
   "Operation": 1
 }

@@ -3086,6 +3086,24 @@
     "CameraPinningAlwaysAllowed": true
   },
   {
+    "moduleDisplayName": "Forget Me Now",
+    "moduleID": "ForgetMeNow",
+    "moduleScoreOverride": false,
+    "moduleScore": 5.0,
+    "moduleScoreIsDynamic": false,
+    "helpTextOverride": false,
+    "helpText": "Press one button with \"{0} press 5\", or enter the sequence \"!{0} press 531820...\". You may use spaces and commas.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightOverride": false,
+    "statusLightLeft": false,
+    "statusLightDown": false,
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Forget Perspective",
     "moduleID": "qkForgetPerspective",
     "moduleScoreOverride": false,
@@ -6653,6 +6671,24 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Simon Selects",
+    "moduleID": "simonSelectsModule",
+    "moduleScoreOverride": true,
+    "moduleScore": 8.0,
+    "moduleScoreIsDynamic": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} select rgm [Selects/Deselects the specified colors where r=red,o=orange,y=yellow,g=green,b=blue,c=cyan,p=purple,m=magenta] | !{0} submit [Submits the selected colors]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightOverride": false,
+    "statusLightLeft": false,
+    "statusLightDown": false,
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
