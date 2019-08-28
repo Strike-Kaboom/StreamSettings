@@ -2075,6 +2075,24 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Cryptic Cycle",
+    "moduleID": "crypticCycle",
+    "moduleScoreOverride": true,
+    "moduleScore": 15.0,
+    "moduleScoreIsDynamic": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} ABCDEFGH [Presses keys in the positions of the letters on a QWERTY keyboard] | !{0} left/right [Cycles between keyboards] | !{0} delete [Deletes last input] !{0} cancel [Deletes all inputs]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightOverride": false,
+    "statusLightLeft": false,
+    "statusLightDown": false,
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Cryptic Password",
     "moduleID": "CrypticPassword",
     "moduleScoreOverride": false,
@@ -6605,6 +6623,24 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Simon Literally Says",
+    "moduleID": "ksmSimonLitSays",
+    "moduleScoreOverride": false,
+    "moduleScore": 5.0,
+    "moduleScoreIsDynamic": false,
+    "helpTextOverride": false,
+    "helpText": "Use '!{0} press 1' to press the button in that position.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightOverride": false,
+    "statusLightLeft": false,
+    "statusLightDown": false,
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Simon Samples",
     "moduleID": "simonSamples",
     "moduleScoreOverride": true,
@@ -8351,7 +8387,7 @@
     "moduleScore": 5.0,
     "moduleScoreIsDynamic": false,
     "helpTextOverride": false,
-    "helpText": "To press the grid buttons use !{0} press 1 [number from 1 to 9, 1 top-left corner, 9 bottom-right corner, in reading order]. To submit use !{0} submit",
+    "helpText": "To press the grid buttons use !{0} press 1 [number from 1 to 9, 1 top-left corner, 9 bottom-right corner, in reading order]. Button presses can be chained. To submit use !{0} submit",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightOverride": false,

@@ -6,7 +6,8 @@
     "playfairCycle",
     "affineCycle",
     "ultimateCycle",
-    "hillCycle"
+    "hillCycle",
+    "crypticCycle"
   ],
   "Operation": 1
 }
