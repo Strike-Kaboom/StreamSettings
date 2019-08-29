@@ -11,6 +11,7 @@ output_log.txt
 modSettings.xml
 modSelectorConfig.json
 demoSettings.xml
+ModProfiles/Strike.json
 ModProfiles/TP_Supported.json
 ModProfiles/Practice.json
 ModProfiles/NoBC.json

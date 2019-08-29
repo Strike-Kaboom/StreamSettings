@@ -28,7 +28,6 @@
     "cruelCountdown",
     "crystalMaze",
     "countdown",
-    "plungerButton",
     "sonicKnuckles",
     "determinant",
     "needyShapeMemory",
@@ -44,7 +43,8 @@
     "stainedGlass",
     "lgndHyperactiveNumbers",
     "matrix",
-    "DiscordRpc(Clone)"
+    "DiscordRpc(Clone)",
+    "simonsOnFirst"
   ],
   "Operation": 1
 }

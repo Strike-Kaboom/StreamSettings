@@ -1,9 +1,10 @@
 {
   "DisabledList": [
-    "lgndTerrariaQuiz",
-    "NeedyBeer",
+    "blockStacks",
     "buttonMasherNeedy",
-    "lgndColorMatch"
+    "NeedyBeer",
+    "lgndColorMatch",
+    "VentGasTranslated"
   ],
   "Operation": 1
 }

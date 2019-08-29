@@ -1,18 +1,13 @@
 {
   "DisabledList": [
     "FactoryRoom",
-    "thewitness",
     "TextAdventureModule",
     "KritConnectionDev",
     "BusGameplayRoom",
     "snakesAndLadders",
     "tashaSqueals",
     "cookieJars",
-    "Yoinkingmodule",
-    "forgetUsNot",
-    "booleanWires",
-    "Krit4CardMonte",
-    "burgerAlarm"
+    "Yoinkingmodule"
   ],
   "Operation": 1
 }
