@@ -505,6 +505,24 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "A-maze-ing Buttons",
+    "moduleID": "ksmAmazeingButtons",
+    "moduleScoreOverride": false,
+    "moduleScore": 5.0,
+    "moduleScoreIsDynamic": false,
+    "helpTextOverride": false,
+    "helpText": "'!{0} tap UUDDLRLR' | '!{0} hold U' | '!{0} release any' (any time) | '!{0} release on 4' (4 on either digit) | '!{0} release on not 2' (2 not present) | '!{0} release on 06 12 18' (exact number of seconds) | '!{0} reset' (return to the start)",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightOverride": false,
+    "statusLightLeft": false,
+    "statusLightDown": false,
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Anagrams",
     "moduleID": "AnagramsModule",
     "moduleScoreOverride": true,
@@ -625,7 +643,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -1013,7 +1031,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -1067,7 +1085,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -1121,7 +1139,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -1139,7 +1157,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -1553,7 +1571,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -2392,7 +2410,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -2534,7 +2552,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -2908,6 +2926,24 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Flash Memory",
+    "moduleID": "FlashMemory",
+    "moduleScoreOverride": true,
+    "moduleScore": 7.0,
+    "moduleScoreIsDynamic": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} press A1 B3 C5... (column [A to D] and row [1 to 4] to press) | !{0} bolt (presses the lightning bolt button)",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightOverride": false,
+    "statusLightLeft": false,
+    "statusLightDown": false,
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Flashing Lights",
     "moduleID": "flashingLights",
     "moduleScoreOverride": false,
@@ -2995,7 +3031,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -3125,7 +3161,7 @@
     "moduleDisplayName": "Forget Me Now",
     "moduleID": "ForgetMeNow",
     "moduleScoreOverride": false,
-    "moduleScore": 5.0,
+    "moduleScore": 0.0,
     "moduleScoreIsDynamic": false,
     "helpTextOverride": true,
     "helpText": "Press one button with '!{0} press 5', or enter the sequence with '!{0} press 531820...'. You may use spaces and commas.",
@@ -3137,13 +3173,13 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
-    "CameraPinningAlwaysAllowed": false
+    "CameraPinningAlwaysAllowed": true
   },
   {
     "moduleDisplayName": "Forget Perspective",
     "moduleID": "qkForgetPerspective",
     "moduleScoreOverride": false,
-    "moduleScore": 5.0,
+    "moduleScore": 0.0,
     "moduleScoreIsDynamic": false,
     "helpTextOverride": false,
     "helpText": "Use '!{0} submit <input>' to submit an answer! (Don't use spaces between the input characters!) Use '!{0} rotate' to rotate the cube!",
@@ -3154,8 +3190,8 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
-    "CameraPinningAlwaysAllowed": false
+    "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": true
   },
   {
     "moduleDisplayName": "Forget Them All",
@@ -3215,7 +3251,7 @@
     "moduleDisplayName": "Forget Us Not",
     "moduleID": "forgetUsNot",
     "moduleScoreOverride": false,
-    "moduleScore": 5.0,
+    "moduleScore": 0.0,
     "moduleScoreIsDynamic": false,
     "helpTextOverride": false,
     "helpText": "Enter the Forget Us Not sequence with \"!{0} press 531820...\". The sequence length depends on how many modules were on the bomb. You may use spaces and commas in the digit sequence.",
@@ -3227,7 +3263,7 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
-    "CameraPinningAlwaysAllowed": false
+    "CameraPinningAlwaysAllowed": true
   },
   {
     "moduleDisplayName": "Four-Card Monte",
@@ -3244,7 +3280,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -3316,7 +3352,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -3780,7 +3816,7 @@
     "manualCode": null,
     "statusLightOverride": false,
     "statusLightLeft": false,
-    "statusLightDown": true,
+    "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
@@ -6332,8 +6368,8 @@
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightOverride": false,
-    "statusLightLeft": true,
-    "statusLightDown": true,
+    "statusLightLeft": false,
+    "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
@@ -6346,7 +6382,7 @@
     "moduleScore": 15.0,
     "moduleScoreIsDynamic": false,
     "helpTextOverride": false,
-    "helpText": "Use !{0} press left to press the left button. (Valid buttons are left, right, up, down). Use !{0} block blue/red/green/yellow to block that color. Use !{0} start to start the program. Use !{0} reset to reset the program.",
+    "helpText": "Use !{0} press left/l to press the left button. (Valid buttons are left, right, up, down). Use !{0} block blue/red/green/yellow to block that color. Use !{0} start to start the program. Use !{0} reset to reset the program.",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightOverride": false,
@@ -6500,6 +6536,24 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Safety Square",
+    "moduleID": "safetySquare",
+    "moduleScoreOverride": false,
+    "moduleScore": 5.0,
+    "moduleScoreIsDynamic": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} press <button> [Presses the specified button] | !{0} press <button> <button> [Example of button chaining] | !{0} check [Outputs all made inputs in chat (this is here cause of stage 2)] | Valid buttons are CO2, Water, Dry(Or: Powder, Drypowder), Foam, Chem(Or: Wet, Chemical, Wetchemical), Red(R), Blue(B), Yellow(Y), and White(W)",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightOverride": false,
+    "statusLightLeft": false,
+    "statusLightDown": false,
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -8171,7 +8225,7 @@
     "moduleScore": 6.0,
     "moduleScoreIsDynamic": false,
     "helpTextOverride": false,
-    "helpText": "Hold and release the button by using !{0} hold on 0; release on 0",
+    "helpText": "Hold the button by using !{0} hold on 0, and release the button by using !{0} release on 0",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightOverride": false,
@@ -8855,10 +8909,10 @@
     "moduleDisplayName": "Vectors",
     "moduleID": "vectorsModule",
     "moduleScoreOverride": true,
-    "moduleScore": 15.0,
+    "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "helpTextOverride": false,
-    "helpText": "!{0} hold for <#> [Holds the button for the specifed number of seconds, valid hold times range from 0-20] | !{0} zoom tilt u/d/l/r [Zoom in at different angles on the module to see 3D graph clearly, this is a general TP command]",
+    "helpText": "!{0} hold for <#> [Holds the button for the specifed number of seconds, valid hold times range from 0-15] | !{0} zoom tilt u/d/l/r [Zoom in at different angles on the module to see 3D graph clearly, this is a general TP command]",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightOverride": false,
