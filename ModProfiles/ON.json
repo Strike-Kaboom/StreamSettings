@@ -8,8 +8,14 @@
     "tashaSqueals",
     "cookieJars",
     "Yoinkingmodule",
+<<<<<<< HEAD
     "Krit4CardMonte",
     "speakEnglish"
+=======
+	"Krit4CardMonte",
+	"vexillology",
+	"speakEnglish"
+>>>>>>> c98a0dc0d8018456fbaca91b43e8879920de1b9c
   ],
   "Operation": 1
 }
