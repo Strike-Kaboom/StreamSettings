@@ -3180,7 +3180,7 @@
     "moduleID": "ForgetMeNow",
     "moduleScoreOverride": false,
     "moduleScore": 0.0,
-    "moduleScoreIsDynamic": false,
+    "moduleScoreIsDynamic": true,
     "helpTextOverride": true,
     "helpText": "Press one button with '!{0} press 5', or enter the sequence with '!{0} press 531820...'. You may use spaces and commas.",
     "manualCodeOverride": false,
@@ -3198,7 +3198,7 @@
     "moduleID": "qkForgetPerspective",
     "moduleScoreOverride": false,
     "moduleScore": 0.0,
-    "moduleScoreIsDynamic": false,
+    "moduleScoreIsDynamic": true,
     "helpTextOverride": false,
     "helpText": "Use '!{0} submit <input>' to submit an answer! (Don't use spaces between the input characters!) Use '!{0} rotate' to rotate the cube!",
     "manualCodeOverride": false,
@@ -3251,8 +3251,8 @@
     "moduleDisplayName": "Forget Us Not",
     "moduleID": "fogetUsNot",
     "moduleScoreOverride": false,
-    "moduleScore": 5.0,
-    "moduleScoreIsDynamic": false,
+    "moduleScore": 0.0,
+    "moduleScoreIsDynamic": true,
     "helpTextOverride": false,
     "helpText": "Enter the Forget Us Not sequence with \"!{0} press 531820...\". The sequence length depends on how many modules were on the bomb. You may use spaces and commas in the digit sequence.",
     "manualCodeOverride": true,
@@ -3834,7 +3834,7 @@
     "manualCode": null,
     "statusLightOverride": false,
     "statusLightLeft": false,
-    "statusLightDown": false,
+    "statusLightDown": true,
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
@@ -3945,7 +3945,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -5576,8 +5576,8 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
-    "CameraPinningAlwaysAllowed": false
+    "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": true
   },
   {
     "moduleDisplayName": "Orientation Cube",
@@ -5627,7 +5627,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -6177,7 +6177,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -6422,8 +6422,8 @@
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightOverride": false,
-    "statusLightLeft": false,
-    "statusLightDown": false,
+    "statusLightLeft": true,
+    "statusLightDown": true,
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
@@ -8387,7 +8387,7 @@
     "moduleScore": 12.0,
     "moduleScoreIsDynamic": false,
     "helpTextOverride": true,
-    "helpText": "Choose a company to invest in with !{0} submit HSBC. Invest your money in the company of your choice with !{0} invest.",
+    "helpText": "Choose a company to invest in with !{0} submit HSBC.",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightOverride": false,
@@ -8666,13 +8666,13 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
-    "moduleDisplayName": "Timing Is Everything",
+    "moduleDisplayName": "Timing is Everything",
     "moduleID": "timingIsEverything",
     "moduleScoreOverride": false,
     "moduleScore": 5.0,
     "moduleScoreIsDynamic": false,
     "helpTextOverride": false,
-    "helpText": null,
+    "helpText": "!{0} submit <time> [Presses the submit button at the specified time] | Supported time formats: ##, #:##, ##:##, #:##:##",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightOverride": false,
