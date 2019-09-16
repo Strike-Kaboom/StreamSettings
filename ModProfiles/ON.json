@@ -2,17 +2,14 @@
   "DisabledList": [
     "FactoryRoom",
     "TextAdventureModule",
-    "KritConnectionDev",
     "BusGameplayRoom",
     "snakesAndLadders",
     "tashaSqueals",
     "Yoinkingmodule",
-    "Krit4CardMonte",
     "vexillology",
     "speakEnglish",
     "GoCommitCoding",
-    "robotProgramming",
-    "timingIsEverything"
+    "AdjacentLettersModule_Rus"
   ],
   "Operation": 1
 }
