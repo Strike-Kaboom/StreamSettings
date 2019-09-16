@@ -32,7 +32,7 @@
   "DynamicScorePercentage": 0.5,
   "EnableTwitchPlayShims": true,
   "UnsubmittablePenaltyPercent": 0.3,
-  "UnclaimedColor": "99, 63, 163",
+  "UnclaimedColor": "0, 255, 0",
   "ShowModuleDifficulty": false,
   "ShowModuleType": true,
   "AllowTurnTheKeyEarlyLate": true,
