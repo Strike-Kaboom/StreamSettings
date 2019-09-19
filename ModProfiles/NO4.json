@@ -1,10 +1,10 @@
 {
   "DisabledList": [
     "KritCMDPrompt",
+    "commonSense",
     "KritFlipTheCoin",
-    "EternitySDec",
-    "http",
-    "needyPiano"
+    "needyPiano",
+    "EternitySDec"
   ],
   "Operation": 1
 }

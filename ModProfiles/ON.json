@@ -4,13 +4,12 @@
     "TextAdventureModule",
     "BusGameplayRoom",
     "snakesAndLadders",
-    "tashaSqueals",
     "Yoinkingmodule",
     "vexillology",
     "speakEnglish",
     "GoCommitCoding",
     "Krit4CardMonte",
-	"KritConnectionDev"
+    "KritConnectionDev"
   ],
   "Operation": 1
 }

@@ -1,9 +1,9 @@
 {
   "DisabledList": [
-    "blockStacks",
     "buttonMasherNeedy",
-    "NeedyBeer",
     "lgndColorMatch",
+    "NeedyBeer",
+    "ksmSimonLitSays",
     "VentGasTranslated"
   ],
   "Operation": 1
