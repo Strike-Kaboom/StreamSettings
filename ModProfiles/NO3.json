@@ -1,8 +1,8 @@
 {
   "DisabledList": [
-    "Needy Math",
     "aa",
-    "QRCode",
+    "romanNumeralsModule",
+    "http",
     "NeedyKnobV2",
     "monsplodeWho"
   ],

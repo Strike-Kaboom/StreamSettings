@@ -3,7 +3,8 @@
     "spwizTetris",
     "LightsOut",
     "EdgeworkModule",
-    "EncryptedValuesModule"
+    "EncryptedValuesModule",
+    "QRCode"
   ],
   "Operation": 1
 }
