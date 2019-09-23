@@ -4147,7 +4147,7 @@
     "manualCode": null,
     "statusLightOverride": false,
     "statusLightLeft": false,
-    "statusLightDown": true,
+    "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
