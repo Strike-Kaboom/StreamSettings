@@ -108,7 +108,7 @@
     "manualCode": null,
     "statusLightOverride": true,
     "statusLightLeft": true,
-    "statusLightDown": false,
+    "statusLightDown": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
