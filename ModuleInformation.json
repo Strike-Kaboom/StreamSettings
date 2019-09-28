@@ -8844,7 +8844,7 @@
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "helpTextOverride": false,
-    "helpText": "Select a line and station for the top row with !{0} top circle embankment, substitute top for with middle or bottom for the middle and bottom rows respectivly. Use Hammersmith for the Hammersmith & City line. Two letters, such as 'St', must be immediately followed by a dot (i.e. King's Cross St. Pancras). Submit with !{0} submit",
+    "helpText": "Select a line and station for the top row with !{0} top circle embankment, substitute top for with middle or bottom for the middle and bottom rows respectivly. Use Hammersmith for the Hammersmith & City line. Two letters, such as 'St', must be immediately followed by a dot (e.g. King's Cross St. Pancras). Submit with !{0} submit",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightOverride": false,
