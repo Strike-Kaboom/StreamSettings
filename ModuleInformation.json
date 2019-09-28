@@ -7802,7 +7802,7 @@
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "helpTextOverride": false,
-    "helpText": "Use '!{0} press 1' to press the 1st button!",
+    "helpText": "Use “!{0} press <n>” to press the button numbered n!",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightOverride": true,
