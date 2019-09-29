@@ -64,6 +64,25 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Keypad Lock",
+    "moduleID": "keypadLock",
+    "moduleScoreOverride": true,
+    "moduleScore": 7.0,
+    "moduleScoreIsDynamic": false,
+    "announceModule": false,
+    "helpTextOverride": true,
+    "helpText": "Submit the answer with “!{0} (code)”. For example: “!{0} 2806” to input 2806.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightOverride": false,
+    "statusLightLeft": false,
+    "statusLightDown": false,
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "",
     "moduleID": "labyrinth",
     "moduleScoreOverride": true,
@@ -1110,7 +1129,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -3619,7 +3638,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -4166,7 +4185,7 @@
     "manualCode": null,
     "statusLightOverride": false,
     "statusLightLeft": false,
-    "statusLightDown": false,
+    "statusLightDown": true,
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
@@ -4353,7 +4372,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -5251,7 +5270,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -5469,8 +5488,8 @@
     "manualCodeOverride": false,
     "manualCode": "Morse-A-Maze",
     "statusLightOverride": false,
-    "statusLightLeft": false,
-    "statusLightDown": false,
+    "statusLightLeft": true,
+    "statusLightDown": true,
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": true,
@@ -6026,7 +6045,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -6832,7 +6851,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -10134,7 +10153,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
