@@ -19,7 +19,7 @@
   "EnableAutomaticEdgework": true,
   "EnableEdgeworkCommand": false,
   "EnableAutomaticCameraWall": true,
-  "EnableEdgeworkCameras": true,
+  "EnableEdgeworkCameras": false,
   "RepositoryUrl": "https://ktane.timwi.de/",
   "AnalyzerUrl": "https://ktane.timwi.de/More/Logfile%20Analyzer.html",
   "EnableModeratorsCommand": true,
