@@ -1124,11 +1124,7 @@
     "helpText": "Move to other screens using !{0} right|left|r|l|. Submit the decrypted word with !{0} submit qwertyuiopasdfghjklzxcvbnm",
     "manualCodeOverride": false,
     "manualCode": null,
-<<<<<<< HEAD
-    "statusLightOverride": false,
-=======
     "statusLightOverride": true,
->>>>>>> 140fefdd3c927a353c32272d91fa0a00a0e225a2
     "statusLightLeft": false,
     "statusLightDown": false,
     "validCommandsOverride": false,
@@ -3416,25 +3412,6 @@
     "validCommands": null,
     "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": true
-  },
-  {
-    "moduleDisplayName": "Forget Me Later",
-    "moduleID": "forgetMeLater",
-    "moduleScoreOverride": false,
-    "moduleScore": 5.0,
-    "moduleScoreIsDynamic":true,
-    "announceModule": true,
-    "helpTextOverride": false,
-    "helpText": "!{0} 0-9 [presses button labelled with this digit]",
-    "manualCodeOverride": false,
-    "manualCode": null,
-    "statusLightOverride": false,
-    "statusLightLeft": false,
-    "statusLightDown": false,
-    "validCommandsOverride": false,
-    "validCommands": null,
-    "DoesTheRightThing": false,
-    "CameraPinningAlwaysAllowed": false
   },
   {
     "moduleDisplayName": "Forget Me Later",
