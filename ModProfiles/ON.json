@@ -3,12 +3,9 @@
     "FactoryRoom",
     "TextAdventureModule",
     "BusGameplayRoom",
-    "Yoinkingmodule",
     "vexillology",
     "speakEnglish",
-    "GoCommitCoding",
-    "Krit4CardMonte",
-    "KritConnectionDev"
+    "GoCommitCoding"
   ],
   "Operation": 1
 }
