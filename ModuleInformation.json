@@ -4230,6 +4230,25 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Insane Talk",
+    "moduleID": "insanetalk",
+    "moduleScoreOverride": true,
+    "moduleScore": 5.0,
+    "moduleScoreIsDynamic": false,
+    "announceModule": false,
+    "helpTextOverride": false,
+    "helpText": "Use '!{0} label 1 2 3 4' to press button with label 1, 2, 3 and 4. Use '!{0} position 1 2 3 4' to press button in position 1, 2, 3 and 4. Buttons are numbered from 1 to 4 going from the top to the bottom.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightOverride": false,
+    "statusLightLeft": false,
+    "statusLightDown": false,
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Instructions",
     "moduleID": "instructions",
     "moduleScoreOverride": false,
@@ -7816,7 +7835,7 @@
   {
     "moduleDisplayName": "Snakes and Ladders",
     "moduleID": "snakesAndLadders",
-    "moduleScoreOverride": false,
+    "moduleScoreOverride": true,
     "moduleScore": 5.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -8853,6 +8872,25 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "The Legendre Symbol",
+    "moduleID": "legendreSymbol",
+    "moduleScoreOverride": false,
+    "moduleScore": 5.0,
+    "moduleScoreIsDynamic": false,
+    "announceModule": false,
+    "helpTextOverride": false,
+    "helpText": "Use \"!{0} press r\", \"!{0} press n\", \"!{0} r\", or \"!{0} n\" to press a button.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightOverride": false,
+    "statusLightLeft": false,
+    "statusLightDown": false,
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
