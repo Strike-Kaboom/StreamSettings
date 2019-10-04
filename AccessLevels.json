@@ -364,7 +364,8 @@
     "hoeenhero": "User",
     "mysticorginal": "User",
     "gaming__chair": "User",
-    "realfrikas": "User"
+    "realfrikas": "User",
+    "bernardohammer562": "Banned"
   },
   "Bans": {
     "bomb_griefer": {
@@ -438,6 +439,11 @@
       "BanExpiry": "Infinity"
     },
     "1chilli": {
+      "BannedBy": "Strike_Kaboom",
+      "BannedReason": null,
+      "BanExpiry": "Infinity"
+    },
+    "bernardohammer562": {
       "BannedBy": "Strike_Kaboom",
       "BannedReason": null,
       "BanExpiry": "Infinity"
