@@ -4223,7 +4223,7 @@
     "manualCode": null,
     "statusLightOverride": false,
     "statusLightLeft": false,
-    "statusLightDown": true,
+    "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
@@ -5762,9 +5762,9 @@
     "helpText": "Submit an answer with !{0} submit -47.",
     "manualCodeOverride": true,
     "manualCode": "https://ktane.timwi.de/HTML/Math.html",
-    "statusLightOverride": false,
+    "statusLightOverride": true,
     "statusLightLeft": false,
-    "statusLightDown": false,
+    "statusLightDown": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
