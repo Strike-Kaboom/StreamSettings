@@ -3051,7 +3051,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -3417,7 +3417,7 @@
     "moduleDisplayName": "Forget Me Later",
     "moduleID": "forgetMeLater",
     "moduleScoreOverride": false,
-    "moduleScore": 5.0,
+    "moduleScore": 0.0,
     "moduleScoreIsDynamic": true,
     "announceModule": true,
     "helpTextOverride": false,
@@ -3429,8 +3429,8 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
-    "CameraPinningAlwaysAllowed": false
+    "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": true
   },
   {
     "moduleDisplayName": "Forget Me Not",
@@ -3942,7 +3942,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -4073,7 +4073,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -4204,7 +4204,7 @@
     "manualCode": null,
     "statusLightOverride": false,
     "statusLightLeft": false,
-    "statusLightDown": true,
+    "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
@@ -4302,7 +4302,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -5315,7 +5315,7 @@
     "moduleDisplayName": "Module Listening",
     "moduleID": "moduleListening",
     "moduleScoreOverride": true,
-    "moduleScore": 13.0,
+    "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "helpTextOverride": false,
@@ -7019,7 +7019,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -8947,7 +8947,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
