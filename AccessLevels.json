@@ -365,7 +365,14 @@
     "mysticorginal": "User",
     "gaming__chair": "User",
     "realfrikas": "User",
-    "bernardohammer562": "Banned"
+    "bernardohammer562": "Banned",
+    "gordohunter76543": "User",
+    "enexplogenx": "User",
+    "derfer99": "User",
+    "keeptalkingfan": "User",
+    "zaphod_beeblebrox_iv": "User",
+    "diffusegd": "User",
+    "bernardobusiness480": "Banned"
   },
   "Bans": {
     "bomb_griefer": {
@@ -444,6 +451,11 @@
       "BanExpiry": "Infinity"
     },
     "bernardohammer562": {
+      "BannedBy": "Strike_Kaboom",
+      "BannedReason": null,
+      "BanExpiry": "Infinity"
+    },
+    "bernardobusiness480": {
       "BannedBy": "Strike_Kaboom",
       "BannedReason": null,
       "BanExpiry": "Infinity"
