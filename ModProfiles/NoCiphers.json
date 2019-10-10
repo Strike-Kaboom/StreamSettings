@@ -1,7 +1,12 @@
 {
   "DisabledList": [
     "redCipher",
-    "orangeCipher"
+    "orangeCipher",
+    "yellowCipher",
+    "indigoCipher",
+    "violetCipher",
+    "blueCipher",
+    "greenCipher"
   ],
   "Operation": 1
 }
