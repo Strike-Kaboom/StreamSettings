@@ -3813,6 +3813,25 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Green Cipher",
+    "moduleID": "greenCipher",
+    "moduleScoreOverride": true,
+    "moduleScore": 5.0,
+    "moduleScoreIsDynamic": false,
+    "announceModule": false,
+    "helpTextOverride": false,
+    "helpText": "Move to other screens using !{0} right|left|r|l|. Submit the decrypted word with !{0} submit qwertyuiopasdfghjklzxcvbnm",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightOverride": false,
+    "statusLightLeft": false,
+    "statusLightDown": false,
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Grid Matching",
     "moduleID": "GridMatching",
     "moduleScoreOverride": true,
@@ -4265,6 +4284,25 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Indigo Cipher",
+    "moduleID": "indigoCipher",
+    "moduleScoreOverride": true,
+    "moduleScore": 5.0,
+    "moduleScoreIsDynamic": false,
+    "announceModule": false,
+    "helpTextOverride": false,
+    "helpText": "Move to other screens using !{0} right|left|r|l|. Submit the decrypted word with !{0} submit qwertyuiopasdfghjklzxcvbnm",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightOverride": false,
+    "statusLightLeft": false,
+    "statusLightDown": false,
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -9864,6 +9902,25 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Violet Cipher",
+    "moduleID": "violetCipher",
+    "moduleScoreOverride": true,
+    "moduleScore": 5.0,
+    "moduleScoreIsDynamic": false,
+    "announceModule": false,
+    "helpTextOverride": false,
+    "helpText": "Move to other screens using !{0} right|left|r|l|. Submit the decrypted word with !{0} submit qwertyuiopasdfghjklzxcvbnm",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightOverride": false,
+    "statusLightLeft": false,
+    "statusLightDown": false,
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
