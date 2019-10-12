@@ -41,7 +41,10 @@
     "veryAnnoyingButton",
     "lousyChess",
     "garfieldKart",
-    "TextAdventureModule"
+    "TextAdventureModule",
+    "ubermodule",
+    "encryptionBingo",
+    "chineseCounting"
   ],
   "Operation": 1
 }

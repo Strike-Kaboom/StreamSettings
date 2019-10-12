@@ -121,11 +121,13 @@
     "NO6",
     "NO7",
     "NO8",
+    "NO9",
     "HOLYSINKS",
     "\nTech_Profiles",
     "NewMods",
     "NoTwo",
-    "ON"
+    "ON",
+    "VSMode"
   ],
   "BombCustomMessages": {
     "ttks": "Turn the Keys is a module on this bomb. It dictates some modules be delayed until others are finished. Until Turn the Keys is finished, you should avoid doing the following modules:\nLeft Key: Maze, Memory, Complicated Wires, Wire Sequence, Cryptography\nRight Key: Simon Says, Semaphore, Combination Lock, Astrology, Switches, Plumbing",
