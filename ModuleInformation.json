@@ -2876,7 +2876,7 @@
     "moduleScoreOverride": true,
     "moduleScore": 5.0,
     "moduleScoreIsDynamic": false,
-    "announceModule": true,
+    "announceModule": false,
     "helpTextOverride": false,
     "helpText": "!{0} D3 presses button D3. !{0} ball presses the ball. !{0} zoom is a general TP command that lets you see the encryptions better.",
     "manualCodeOverride": false,
@@ -2887,7 +2887,7 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
-    "CameraPinningAlwaysAllowed": true
+    "CameraPinningAlwaysAllowed": false
   },
   {
     "moduleDisplayName": "English Test",
