@@ -1818,6 +1818,25 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "colorAddition",
+    "moduleID": "Color Addition",
+    "moduleScoreOverride": false,
+    "moduleScore": 5.0,
+    "moduleScoreIsDynamic": false,
+    "announceModule": false,
+    "helpTextOverride": false,
+    "helpText": null,
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightOverride": false,
+    "statusLightLeft": false,
+    "statusLightDown": false,
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Colored Keys",
     "moduleID": "lgndColoredKeys",
     "moduleScoreOverride": true,
@@ -2876,7 +2895,7 @@
     "moduleScoreOverride": true,
     "moduleScore": 5.0,
     "moduleScoreIsDynamic": false,
-    "announceModule": true,
+    "announceModule": false,
     "helpTextOverride": true,
     "helpText": "!{0} D3 presses button D3. !{0} ball presses the ball.",
     "manualCodeOverride": false,
@@ -2887,7 +2906,7 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
-    "CameraPinningAlwaysAllowed": true
+    "CameraPinningAlwaysAllowed": false
   },
   {
     "moduleDisplayName": "English Test",
