@@ -3514,7 +3514,7 @@
     "moduleScoreOverride": false,
     "moduleScore": 0.0,
     "moduleScoreIsDynamic": true,
-    "announceModule": false,
+    "announceModule": true,
     "helpTextOverride": true,
     "helpText": "Press one button with '!{0} press 5', or enter the sequence with '!{0} press 531820...'. You may use spaces and commas.",
     "manualCodeOverride": false,
