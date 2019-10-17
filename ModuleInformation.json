@@ -3703,10 +3703,7 @@
     "moduleScore": 0.0,
     "moduleScoreIsDynamic": true,
     "announceModule": false,
-<<<<<<< HEAD
-=======
     "unclaimable": false,
->>>>>>> f2b940a269b3bacc7c8da42b9c18d9017cd3e65e
     "helpTextOverride": true,
     "helpText": "Press one button with '!{0} press 5', or enter the sequence with '!{0} press 531820...'. You may use spaces and commas.",
     "manualCodeOverride": false,
