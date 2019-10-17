@@ -479,7 +479,9 @@
     "yellowCipher",
     "fruits",
     "insanetalk",
-    "keypadLock"
+    "keypadLock",
+    "blueCipher",
+    "chineseCounting"
   ],
   "Operation": 1
 }
