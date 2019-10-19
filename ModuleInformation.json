@@ -1815,6 +1815,26 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Color Addition",
+    "moduleID": "colorAddition",
+    "moduleScoreOverride": true,
+    "moduleScore": 5.0,
+    "moduleScoreIsDynamic": false,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Use !press 1 2 3 the press the buttons from left to right!",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightOverride": false,
+    "statusLightLeft": false,
+    "statusLightDown": false,
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Color Decoding",
     "moduleID": "Color Decoding",
     "moduleScoreOverride": true,
@@ -4360,7 +4380,7 @@
     "moduleScoreOverride": false,
     "moduleScore": 5.0,
     "moduleScoreIsDynamic": false,
-    "announceModule": false,
+    "announceModule": true,
     "unclaimable": false,
     "helpTextOverride": false,
     "helpText": "!{0} find color [Scroll to the next module containing “color” in the name] | !{0} cycle 5 [Cycle forward 5 entries] | !{0} gryffindor/ravenclaw/slytherin/hufflepuff",
@@ -4372,7 +4392,7 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
-    "CameraPinningAlwaysAllowed": false
+    "CameraPinningAlwaysAllowed": true
   },
   {
     "moduleDisplayName": "Hold Ups",
@@ -4529,7 +4549,7 @@
     "manualCode": null,
     "statusLightOverride": false,
     "statusLightLeft": false,
-    "statusLightDown": true,
+    "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
@@ -6121,6 +6141,26 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "N&Ms",
+    "moduleID": "NandMs",
+    "moduleScoreOverride": true,
+    "moduleScore": 1.0,
+    "moduleScoreIsDynamic": false,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} press 1/2/3/4/5 [presses the button in that position from top to bottom]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightOverride": false,
+    "statusLightLeft": false,
+    "statusLightDown": false,
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -9104,6 +9144,26 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Ternary Converter",
+    "moduleID": "qkTernaryConverter",
+    "moduleScoreOverride": true,
+    "moduleScore": 5.0,
+    "moduleScoreIsDynamic": false,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Use '!{0} submit <answer>' to submit your answer! For ex. '!{0} submit +0--0+' or '!{0} submit 201021'",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightOverride": false,
+    "statusLightLeft": false,
+    "statusLightDown": false,
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   },
   {
