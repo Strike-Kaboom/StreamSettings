@@ -2970,7 +2970,7 @@
     "moduleDisplayName": "Eight Pages",
     "moduleID": "lgndEightPages",
     "moduleScoreOverride": false,
-    "moduleScore": 0.0,
+    "moduleScore": 5.0,
     "moduleScoreIsDynamic": true,
     "announceModule": false,
     "unclaimable": false,
@@ -2984,7 +2984,7 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": true,
-    "CameraPinningAlwaysAllowed": true
+    "CameraPinningAlwaysAllowed": false
   },
   {
     "moduleDisplayName": "Elder Futhark",
@@ -4569,7 +4569,7 @@
     "manualCode": null,
     "statusLightOverride": false,
     "statusLightLeft": false,
-    "statusLightDown": false,
+    "statusLightDown": true,
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
