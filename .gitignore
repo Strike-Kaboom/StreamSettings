@@ -6,7 +6,32 @@ ModifiedManuals/*
 TP WEEKDAY SCORES/*
 TP WHITELIST SCORES/*
 TwitchPlaysShared/*
-Modsettings/*
+Modsettings/BombCreator-settings
+Modsettings/BossModules
+Modsettings/CameraZoom-settings
+Modsettings/ChordQualities-settings
+Modsettings/ColorblindMode
+Modsettings/EncryptedIndicators-settings
+Modsettings/EncryptedMorse-settings
+Modsettings/Factory-settings
+Modsettings/filibuster-settings
+Modsettings/LEGOMod-settings
+Modsettings/LogfileHotkey-settings
+Modsettings/ModeSettings
+Modsettings/ModuleMazeConnections
+Modsettings/Monsplode-settings
+Modsettings/MorseAMaze-settings
+Modsettings/MouseUnlocker-settings
+Modsettings/MultipleWidgets-settings
+Modsettings/MusicRhythms-settings
+Modsettings/OrganizationSettings
+Modsettings/quizBuzz-settings
+Modsettings/RubiksCube-settings
+Modsettings/TranslatedModules-settings
+Modsettings/Twitch Plays-settings
+Modsettings/twofactor-settings
+Modsettings/VanillaRuleModifier-settings
+Modsettings/WorldSettings
 output_log.txt
 modSettings.xml
 modSelectorConfig.json

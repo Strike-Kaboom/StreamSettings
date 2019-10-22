@@ -2,10 +2,10 @@
   "DisabledList": [
     "FactoryRoom",
     "BusGameplayRoom",
-    "vexillology",
     "speakEnglish",
     "GoCommitCoding",
-	"robotProgramming"
+    "TextAdventureModule",
+	"geometryDashModule"
   ],
   "Operation": 1
 }

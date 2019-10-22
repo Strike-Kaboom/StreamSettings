@@ -1,0 +1,19 @@
+{
+  "FadeTime": 1.0,
+  "InstantSkip": true,
+  "SkipGameplayDelay": true,
+  "BetterCasePicker": true,
+  "EnableModsOnlyKey": false,
+  "FixFER": false,
+  "BombHUD": true,
+  "ShowEdgework": true,
+  "HideTOC": [],
+  "Mode": "Time",
+  "MissionSeed": -1,
+  "CaseGenerator": true,
+  "CaseColors": [],
+  "PinnedSettings": [
+    "TwitchPlaySettings.json",
+    "TweakSettings.json"
+  ]
+}
