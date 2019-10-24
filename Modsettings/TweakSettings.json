@@ -1,5 +1,5 @@
 {
-  "FadeTime": 1.0,
+  "FadeTime": 0.1,
   "InstantSkip": true,
   "SkipGameplayDelay": true,
   "BetterCasePicker": true,
