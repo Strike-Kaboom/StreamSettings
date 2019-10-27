@@ -15,7 +15,9 @@
     "DividedSquaresModule",
     "theSwan",
     "taxReturns",
-    "TurnTheKeyAdvanced"
+    "TurnTheKeyAdvanced",
+	"timingIsEverything",
+    "encryptionBingo"
   ],
   "Operation": 1
 }
