@@ -98,6 +98,7 @@
     "NoCryptic",
     "NoCycles",
     "NoFactory",
+    "NoFCM",
     "NoFMW",
     "NoFRGB",
     "NoHarm",
