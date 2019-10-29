@@ -6,7 +6,10 @@
     "indigoCipher",
     "violetCipher",
     "blueCipher",
-    "greenCipher"
+    "greenCipher",
+    "blackCipher",
+    "grayCipher",
+    "whiteCipher"
   ],
   "Operation": 1
 }
