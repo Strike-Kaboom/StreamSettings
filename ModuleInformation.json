@@ -7284,6 +7284,26 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Prime Checker",
+    "moduleID": "PrimeChecker",
+    "moduleScoreOverride": true,
+    "moduleScore": 5.0,
+    "moduleScoreIsDynamic": false,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} prime [Presses the prime button] | !{0} notprime [Presses the not prime button]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightOverride": false,
+    "statusLightLeft": false,
+    "statusLightDown": false,
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Probing",
     "moduleID": "Probing",
     "moduleScoreOverride": true,
