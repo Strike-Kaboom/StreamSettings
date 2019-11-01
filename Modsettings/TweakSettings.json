@@ -7,6 +7,7 @@
   "FixFER": false,
   "BombHUD": true,
   "ShowEdgework": true,
+  "DisableAdvantageous": false,
   "HideTOC": [],
   "Mode": "Time",
   "MissionSeed": -1,
