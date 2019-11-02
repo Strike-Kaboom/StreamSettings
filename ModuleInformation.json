@@ -11338,5 +11338,25 @@
     "validCommands": null,
     "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "複雑漢字",
+    "moduleID": "複雑漢字Module",
+    "moduleScoreOverride": false,
+    "moduleScore": 5.0,
+    "moduleScoreIsDynamic": false,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": null,
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightOverride": false,
+    "statusLightLeft": false,
+    "statusLightDown": false,
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
   }
 ]
