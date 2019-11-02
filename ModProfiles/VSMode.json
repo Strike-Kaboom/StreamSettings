@@ -16,8 +16,10 @@
     "theSwan",
     "taxReturns",
     "TurnTheKeyAdvanced",
-	"timingIsEverything",
-    "encryptionBingo"
+    "timingIsEverything",
+    "encryptionBingo",
+    "forgetEnigma", 
+    "HogwartsModule"
   ],
   "Operation": 1
 }
