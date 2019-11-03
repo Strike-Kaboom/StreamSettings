@@ -2355,6 +2355,26 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Corners",
+    "moduleID": "CornersModule",
+    "moduleScoreOverride": true,
+    "moduleScore": 4.0,
+    "moduleScoreIsDynamic": false,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} press TL [press the top-left corner] | chaining possible | !{0} colorblind",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightOverride": false,
+    "statusLightLeft": false,
+    "statusLightDown": false,
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Countdown",
     "moduleID": "countdown",
     "moduleScoreOverride": true,
