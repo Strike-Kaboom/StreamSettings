@@ -1030,7 +1030,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -1771,7 +1771,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -2344,6 +2344,26 @@
     "unclaimable": false,
     "helpTextOverride": false,
     "helpText": "Move right/left with “!{0} left 2”/“!{0} right 3” and submit with “!{0} submit”. Alternatively, cycle the options with “!{0} cycle” and submit your answer with “!{0} submit <4,2>”. Partial answers are acceptable (e.g. “!{0} submit 1 left from”). To do Chinese numbers, you can write “!{0} submit Chinese 12” as well as “!{0} submit 十二”.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightOverride": false,
+    "statusLightLeft": false,
+    "statusLightDown": false,
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Corners",
+    "moduleID": "CornersModule",
+    "moduleScoreOverride": true,
+    "moduleScore": 4.0,
+    "moduleScoreIsDynamic": false,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} press TL [press the top-left corner] | chaining possible | !{0} colorblind",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightOverride": false,
@@ -4033,7 +4053,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -4073,7 +4093,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -4133,7 +4153,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -4193,7 +4213,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -4451,8 +4471,8 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
-    "CameraPinningAlwaysAllowed": true
+    "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
   },
   {
     "moduleDisplayName": "Hold Ups",
@@ -4692,7 +4712,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -4849,7 +4869,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -5715,7 +5735,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -6240,7 +6260,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -6317,7 +6337,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -7300,7 +7320,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -7598,7 +7618,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -8668,7 +8688,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -9303,7 +9323,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -9505,7 +9525,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -9685,7 +9705,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -10402,7 +10422,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -10610,7 +10630,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -10690,7 +10710,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -10870,7 +10890,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -11010,7 +11030,7 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -11337,6 +11357,26 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "複雑漢字",
+    "moduleID": "複雑漢字Module",
+    "moduleScoreOverride": false,
+    "moduleScore": 5.0,
+    "moduleScoreIsDynamic": false,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": null,
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightOverride": false,
+    "statusLightLeft": false,
+    "statusLightDown": false,
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
     "CameraPinningAlwaysAllowed": false
   }
 ]
