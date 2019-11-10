@@ -2815,7 +2815,7 @@
     "moduleScore": 6.0,
     "moduleScoreIsDynamic": false,
     "announceModule": true,
-    "unclaimable": false,
+    "unclaimable": true,
     "helpTextOverride": true,
     "helpText": "!{0} examine a1 [Briefly examine square A1] | !{0} submit a1 [Hold square A1 across a timer tick] | !{0} colorblind",
     "manualCodeOverride": false,
