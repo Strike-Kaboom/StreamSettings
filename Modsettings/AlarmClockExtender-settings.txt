@@ -1,0 +1,18 @@
+{
+  "SettingsVersion": 4,
+  "HowToUse0": "Don't Touch this value. It is used by the mod internally to determine if there are new settings to be saved.",
+  "ResetToDefault": false,
+  "HowToReset": "Changing this setting to true will reset ALL your setting back to default.",
+  "DebugOutput": false,
+  "HowToDebug": "This controls whether things will be dumped into the output log at all.",
+  "AlarmClockBuzzerTime": 1.0,
+  "HowToUse1": "Sets the number of seconds the Alarm clock will buzz for.",
+  "SoundFileDirectory": "C:/Users/mrpea/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\\AlarmClockExtender",
+  "HowToUse2": "Set this directory to where you will put all your music tracks used for the Alarm clock.",
+  "RescanDirectory": true,
+  "HowToUse3": "When Enabled, the directory where the tracks are contained will be rescanned each bomb.",
+  "ChanceOfNormalBeep": 100,
+  "HowToUse4_1": "Set this between 0 and 100. This determines how likely you will get the annoying beep instead of music.",
+  "HowToUse4_2": "Note: If there are no tracks loaded, you will ALWAYS get the beep instead.",
+  "HowToUse4_3": "Also, if anything has replaced the normal beep, those are what will play when the normal beep is played."
+}

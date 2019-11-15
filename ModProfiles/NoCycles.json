@@ -1,0 +1,13 @@
+{
+  "DisabledList": [
+    "jumbleCycle",
+    "caesarCycle",
+    "pigpenCycle",
+    "playfairCycle",
+    "affineCycle",
+    "ultimateCycle",
+    "hillCycle",
+    "crypticCycle"
+  ],
+  "Operation": 1
+}

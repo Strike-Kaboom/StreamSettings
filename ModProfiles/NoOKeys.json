@@ -1,0 +1,12 @@
+{
+  "DisabledList": [
+    "orderedKeys",
+    "unorderedKeys",
+    "reorderedKeys",
+    "borderedKeys",
+    "misorderedKeys",
+    "recordedKeys",
+    "disorderedKeys"
+  ],
+  "Operation": 1
+}

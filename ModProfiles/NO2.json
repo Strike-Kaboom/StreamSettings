@@ -1,0 +1,10 @@
+{
+  "DisabledList": [
+    "spwizTetris",
+    "LightsOut",
+    "EdgeworkModule",
+    "EncryptedValuesModule",
+    "QRCode"
+  ],
+  "Operation": 1
+}
