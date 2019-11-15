@@ -10414,7 +10414,7 @@
     "moduleScoreOverride": true,
     "moduleScore": 5.0,
     "moduleScoreIsDynamic": false,
-    "announceModule": false,
+    "announceModule": true,
     "unclaimable": false,
     "helpTextOverride": false,
     "helpText": "!{0} press <#> (#)... [Press the button when the number of seconds remaining on the counter is <#> (or (#) and so on)] | Reference currently lit arrows for seconds remaining (1-9)",
