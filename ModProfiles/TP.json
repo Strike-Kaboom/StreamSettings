@@ -1,6 +1,5 @@
 {
   "DisabledList": [
-    "troll",
     "draw",
     "digitalCipher",
     "needyWingdings",
@@ -29,11 +28,8 @@
     "modulusManipulation",
     "triangleButtons",
     "CrypticPassword",
-    "stainedGlass",
     "lgndHyperactiveNumbers",
-    "matrix",
     "DiscordRpc(Clone)",
-    "simonsOnFirst",
     "aa",
     "lousyChess",
     "TextAdventureModule",
