@@ -2,16 +2,15 @@
   "DisabledList": [
     "FactoryRoom",
     "BusGameplayRoom",
-	"Portal Room",
+    "Portal Room",
     "speakEnglish",
     "GoCommitCoding",
-    "TextAdventureModule",
     "複雑漢字Module",
-	"MagickaModule",
-	"meter",
-  "timingIsEverything", 
-  "robotProgramming",
-	"necronomicon"
+    "TextAdventureModule",
+    "MagickaModule",
+    "meter",
+    "timingIsEverything",
+    "robotProgramming"
   ],
   "Operation": 1
 }
