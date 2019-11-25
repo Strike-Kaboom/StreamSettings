@@ -10,7 +10,8 @@
     "MagickaModule",
     "meter",
     "timingIsEverything",
-    "robotProgramming"
+    "robotProgramming",
+	"qkTernaryConverter"
   ],
   "Operation": 1
 }
