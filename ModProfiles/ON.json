@@ -10,7 +10,8 @@
     "MagickaModule",
     "meter",
     "timingIsEverything",
-    "stockMarket"
+    "stockMarket",
+    "neutrinos"
   ],
   "Operation": 1
 }
