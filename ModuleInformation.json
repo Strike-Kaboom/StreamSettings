@@ -3187,8 +3187,8 @@
   {
     "moduleDisplayName": "Encryption Bingo",
     "moduleID": "encryptionBingo",
-    "moduleScoreOverride": false,
-    "moduleScore": 5.0,
+    "moduleScoreOverride": true,
+    "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "announceModule": true,
     "unclaimable": false,
