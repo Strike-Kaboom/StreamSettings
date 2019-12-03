@@ -27,6 +27,7 @@
   "EnableLetterCodes": false,
   "AllowSolvingCurrentBombWithCommandsDisabled": true,
   "BombLiveMessageDelay": 0,
+  "ShowUnrecognizedCommandError": true,
   "ClaimCooldownTime": 15,
   "ModuleClaimLimit": 3,
   "DynamicScorePercentage": 0.5,
