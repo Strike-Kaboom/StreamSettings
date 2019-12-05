@@ -5869,7 +5869,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "Press the x button !{0} press x; Buttons can be: 1; 2; 3; 4; TL; TR; BL; BR; (Only use this before solve stage!) On solve stage: '!{0} solve x y' where x and y are numbers between 1 and 12 (The buttons are numbered in reading order.)",
+    "helpText": "Press a button with '!{0} press 1' or '!{0} press TL'. When at the solving stage, press multiple buttons with '!{0} press 1 5 9 4 8 12 …'. Buttons are numbered in reading order at all times.",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightOverride": false,
