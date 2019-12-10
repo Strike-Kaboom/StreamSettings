@@ -43,6 +43,7 @@
   "SuperStreamerIgnoreClaimLimit": true,
   "MinScoreForNewbomb": 100,
   "StrikePenalty": 6,
+  "ModuleToStrikeRatio": 12,
   "EnableTimeModeForEveryone": true,
   "TimeModeStartingTime": 7,
   "TimeModeStartingMultiplier": 9.0,

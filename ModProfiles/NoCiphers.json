@@ -9,7 +9,9 @@
     "greenCipher",
     "blackCipher",
     "grayCipher",
-    "whiteCipher"
+    "whiteCipher",
+    "UnownCipher",
+    "ultimateCipher"
   ],
   "Operation": 1
 }
