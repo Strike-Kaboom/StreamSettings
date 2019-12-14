@@ -2,7 +2,7 @@
   {
     "moduleDisplayName": "",
     "moduleID": "boolMaze",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -37,7 +37,7 @@
     "moduleDisplayName": "",
     "moduleID": "festiveJukebox",
     "moduleScoreOverride": false,
-    "moduleScore": 3.0,
+    "moduleScore": 2.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "unclaimable": false,
@@ -70,7 +70,7 @@
   {
     "moduleDisplayName": "",
     "moduleID": "labyrinth",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -87,7 +87,7 @@
   {
     "moduleDisplayName": "",
     "moduleID": "LEGOModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 14.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -121,7 +121,7 @@
   {
     "moduleDisplayName": "",
     "moduleID": "necronomicon",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 12.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -195,7 +195,7 @@
   {
     "moduleDisplayName": "",
     "moduleID": "skinnyWires",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 6.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -212,7 +212,7 @@
   {
     "moduleDisplayName": "",
     "moduleID": "streetFighter",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -229,8 +229,8 @@
   {
     "moduleDisplayName": "",
     "moduleID": "theRule",
-    "moduleScoreOverride": false,
-    "moduleScore": 7.0,
+    "moduleScoreOverride": true,
+    "moduleScore": 4.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "unclaimable": false,
@@ -266,7 +266,7 @@
   {
     "moduleDisplayName": "3D Maze",
     "moduleID": "spwiz3DMaze",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 12.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -286,7 +286,7 @@
   {
     "moduleDisplayName": "3D Tunnels",
     "moduleID": "3dTunnels",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 14.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -306,7 +306,7 @@
   {
     "moduleDisplayName": "A Mistake",
     "moduleID": "MistakeModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 4.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -347,7 +347,7 @@
   {
     "moduleDisplayName": "Accumulation",
     "moduleID": "accumulation",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 9.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -367,7 +367,7 @@
   {
     "moduleDisplayName": "Adjacent Letters",
     "moduleID": "AdjacentLettersModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 9.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -387,7 +387,7 @@
   {
     "moduleDisplayName": "Adjacent Letters (Russian)",
     "moduleID": "AdjacentLettersModule_Rus",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 12.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -407,7 +407,7 @@
   {
     "moduleDisplayName": "Adventure Game",
     "moduleID": "spwizAdventureGame",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -427,7 +427,7 @@
   {
     "moduleDisplayName": "Affine Cycle",
     "moduleID": "affineCycle",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 11.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -467,7 +467,7 @@
   {
     "moduleDisplayName": "Alchemy",
     "moduleID": "JuckAlchemy",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -484,7 +484,7 @@
   {
     "moduleDisplayName": "Algebra",
     "moduleID": "algebra",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 9.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -524,7 +524,7 @@
   {
     "moduleDisplayName": "Alphabet Numbers",
     "moduleID": "alphabetNumbers",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 12.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -544,7 +544,7 @@
   {
     "moduleDisplayName": "Alpha-Bits",
     "moduleID": "alphaBits",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -584,7 +584,7 @@
   {
     "moduleDisplayName": "A-maze-ing Buttons",
     "moduleID": "ksmAmazeingButtons",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -604,7 +604,7 @@
   {
     "moduleDisplayName": "Anagrams",
     "moduleID": "AnagramsModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 1.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -642,7 +642,7 @@
   {
     "moduleDisplayName": "Arithmelogic",
     "moduleID": "arithmelogic",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 9.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -722,7 +722,7 @@
   {
     "moduleDisplayName": "Bamboozled Again",
     "moduleID": "bamboozledAgain",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 40.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -742,7 +742,7 @@
   {
     "moduleDisplayName": "Bamboozling Button",
     "moduleID": "bamboozlingButton",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 17.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -762,8 +762,8 @@
   {
     "moduleDisplayName": "Bamboozling Button Grid",
     "moduleID": "bamboozlingButtonGrid",
-    "moduleScoreOverride": true,
-    "moduleScore": 25.0,
+    "moduleScoreOverride": false,
+    "moduleScore": 30.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "unclaimable": false,
@@ -782,7 +782,7 @@
   {
     "moduleDisplayName": "Bartending",
     "moduleID": "BartendingModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -913,7 +913,7 @@
   {
     "moduleDisplayName": "Big Circle",
     "moduleID": "BigCircle",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -933,7 +933,7 @@
   {
     "moduleDisplayName": "Binary LEDs",
     "moduleID": "BinaryLeds",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -973,7 +973,7 @@
   {
     "moduleDisplayName": "Binary Tree",
     "moduleID": "binaryTree",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -993,7 +993,7 @@
   {
     "moduleDisplayName": "Bitmaps",
     "moduleID": "BitmapsModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -1013,7 +1013,7 @@
   {
     "moduleDisplayName": "Bitwise Operations",
     "moduleID": "BitOps",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 6.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -1034,7 +1034,7 @@
     "moduleDisplayName": "Black Cipher",
     "moduleID": "blackCipher",
     "moduleScoreOverride": true,
-    "moduleScore": 18.0,
+    "moduleScore": 17.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "unclaimable": false,
@@ -1053,7 +1053,7 @@
   {
     "moduleDisplayName": "Black Hole",
     "moduleID": "BlackHoleModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -1073,7 +1073,7 @@
   {
     "moduleDisplayName": "Blackjack",
     "moduleID": "KritBlackjack",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -1113,7 +1113,7 @@
   {
     "moduleDisplayName": "Blind Maze",
     "moduleID": "BlindMaze",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 9.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -1154,7 +1154,7 @@
   {
     "moduleDisplayName": "Blockbusters",
     "moduleID": "blockbusters",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -1174,7 +1174,7 @@
   {
     "moduleDisplayName": "Blue Arrows",
     "moduleID": "blueArrowsModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 12.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -1194,7 +1194,7 @@
   {
     "moduleDisplayName": "Blue Cipher",
     "moduleID": "blueCipher",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 11.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -1214,7 +1214,7 @@
   {
     "moduleDisplayName": "Bob Barks",
     "moduleID": "ksmBobBarks",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 9.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -1234,7 +1234,7 @@
   {
     "moduleDisplayName": "Boggle",
     "moduleID": "boggle",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 6.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -1254,7 +1254,7 @@
   {
     "moduleDisplayName": "Bomb Diffusal",
     "moduleID": "bombDiffusal",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -1274,7 +1274,7 @@
   {
     "moduleDisplayName": "Bone Apple Tea",
     "moduleID": "boneAppleTea",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 4.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -1314,7 +1314,7 @@
   {
     "moduleDisplayName": "Boolean Venn Diagram",
     "moduleID": "booleanVennModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -1334,7 +1334,7 @@
   {
     "moduleDisplayName": "Boolean Wires",
     "moduleID": "booleanWires",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -1354,7 +1354,7 @@
   {
     "moduleDisplayName": "Boot Too Big",
     "moduleID": "bootTooBig",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 4.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -1375,7 +1375,7 @@
     "moduleDisplayName": "Bordered Keys",
     "moduleID": "borderedKeys",
     "moduleScoreOverride": true,
-    "moduleScore": 12.0,
+    "moduleScore": 13.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "unclaimable": false,
@@ -1394,7 +1394,7 @@
   {
     "moduleDisplayName": "Braille",
     "moduleID": "BrailleModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -1434,7 +1434,7 @@
   {
     "moduleDisplayName": "Broken Buttons",
     "moduleID": "BrokenButtonsModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 9.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -1454,7 +1454,7 @@
   {
     "moduleDisplayName": "Broken Guitar Chords",
     "moduleID": "BrokenGuitarChordsModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 9.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -1474,7 +1474,7 @@
   {
     "moduleDisplayName": "Brush Strokes",
     "moduleID": "brushStrokes",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -1494,7 +1494,7 @@
   {
     "moduleDisplayName": "Burger Alarm",
     "moduleID": "burgerAlarm",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 15.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -1514,7 +1514,7 @@
   {
     "moduleDisplayName": "Burglar Alarm",
     "moduleID": "burglarAlarm",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 9.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -1534,7 +1534,7 @@
   {
     "moduleDisplayName": "Button Grid",
     "moduleID": "buttonGrid",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 12.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -1554,7 +1554,7 @@
   {
     "moduleDisplayName": "Button Sequence",
     "moduleID": "buttonSequencesModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -1594,7 +1594,7 @@
   {
     "moduleDisplayName": "Caesar Cycle",
     "moduleID": "caesarCycle",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -1614,7 +1614,7 @@
   {
     "moduleDisplayName": "Calculus",
     "moduleID": "calcModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 6.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -1694,8 +1694,8 @@
   {
     "moduleDisplayName": "Character Codes",
     "moduleID": "characterCodes",
-    "moduleScoreOverride": true,
-    "moduleScore": 7.0,
+    "moduleScoreOverride": false,
+    "moduleScore": 6.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "unclaimable": false,
@@ -1714,8 +1714,8 @@
   {
     "moduleDisplayName": "Character Shift",
     "moduleID": "characterShift",
-    "moduleScoreOverride": true,
-    "moduleScore": 8.0,
+    "moduleScoreOverride": false,
+    "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "unclaimable": false,
@@ -1734,7 +1734,7 @@
   {
     "moduleDisplayName": "Cheap Checkout",
     "moduleID": "CheapCheckoutModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -1754,7 +1754,7 @@
   {
     "moduleDisplayName": "Cheep Checkout",
     "moduleID": "cheepCheckout",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 9.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -1774,7 +1774,7 @@
   {
     "moduleDisplayName": "Chess",
     "moduleID": "ChessModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -1794,7 +1794,7 @@
   {
     "moduleDisplayName": "Chinese Counting",
     "moduleID": "chineseCounting",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 6.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -1814,7 +1814,7 @@
   {
     "moduleDisplayName": "Chord Qualities",
     "moduleID": "ChordQualities",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -1834,7 +1834,7 @@
   {
     "moduleDisplayName": "Christmas Presents",
     "moduleID": "christmasPresents",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -1852,9 +1852,29 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Codenames",
+    "moduleID": "codenames",
+    "moduleScoreOverride": false,
+    "moduleScore": 5.0,
+    "moduleScoreIsDynamic": false,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} submit <word> [Submits the card with the specified word] | !{0} colorblind [Toggles colorblind mode]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightOverride": false,
+    "statusLightLeft": false,
+    "statusLightDown": false,
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Colo(u)r Talk",
     "moduleID": "colourTalk",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 4.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -1874,7 +1894,7 @@
   {
     "moduleDisplayName": "Color Addition",
     "moduleID": "colorAddition",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 5.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -1894,7 +1914,7 @@
   {
     "moduleDisplayName": "Color Decoding",
     "moduleID": "Color Decoding",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 9.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -1955,7 +1975,7 @@
   {
     "moduleDisplayName": "Color Math",
     "moduleID": "colormath",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -1975,7 +1995,7 @@
   {
     "moduleDisplayName": "Color Morse",
     "moduleID": "ColorMorseModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -2015,7 +2035,7 @@
   {
     "moduleDisplayName": "Colored Keys",
     "moduleID": "lgndColoredKeys",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -2035,7 +2055,7 @@
   {
     "moduleDisplayName": "Colored Squares",
     "moduleID": "ColoredSquaresModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 6.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -2095,7 +2115,7 @@
   {
     "moduleDisplayName": "Colorful Madness",
     "moduleID": "ColorfulMadness",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -2115,7 +2135,7 @@
   {
     "moduleDisplayName": "Colour Code",
     "moduleID": "colourcode",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 14.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -2217,7 +2237,7 @@
   {
     "moduleDisplayName": "Complex Keypad",
     "moduleID": "complexKeypad",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 4.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -2294,7 +2314,7 @@
   {
     "moduleDisplayName": "Connection Device",
     "moduleID": "KritConnectionDev",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -2314,7 +2334,7 @@
   {
     "moduleDisplayName": "Constellations",
     "moduleID": "constellations",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 3.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -2374,7 +2394,7 @@
   {
     "moduleDisplayName": "Coordinates",
     "moduleID": "CoordinatesModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 9.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -2394,7 +2414,7 @@
   {
     "moduleDisplayName": "Corners",
     "moduleID": "CornersModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 4.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -2414,7 +2434,7 @@
   {
     "moduleDisplayName": "Countdown",
     "moduleID": "countdown",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 6.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -2434,7 +2454,7 @@
   {
     "moduleDisplayName": "Crackbox",
     "moduleID": "CrackboxModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 9.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -2471,7 +2491,7 @@
   {
     "moduleDisplayName": "Creation",
     "moduleID": "CreationModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -2491,7 +2511,7 @@
   {
     "moduleDisplayName": "Cruel Boolean Maze",
     "moduleID": "boolMazeCruel",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -2511,7 +2531,7 @@
   {
     "moduleDisplayName": "Cruel Countdown",
     "moduleID": "cruelCountdown",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 9.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -2531,8 +2551,8 @@
   {
     "moduleDisplayName": "Cruel Digital Root",
     "moduleID": "cruelDigitalRootModule",
-    "moduleScoreOverride": true,
-    "moduleScore": 5.0,
+    "moduleScoreOverride": false,
+    "moduleScore": 4.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "unclaimable": false,
@@ -2551,8 +2571,8 @@
   {
     "moduleDisplayName": "Cruel Piano Keys",
     "moduleID": "CruelPianoKeys",
-    "moduleScoreOverride": true,
-    "moduleScore": 10.0,
+    "moduleScoreOverride": false,
+    "moduleScore": 13.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "unclaimable": false,
@@ -2571,7 +2591,7 @@
   {
     "moduleDisplayName": "Cryptic Cycle",
     "moduleID": "crypticCycle",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 18.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -2648,7 +2668,7 @@
   {
     "moduleDisplayName": "Cursed Double-Oh",
     "moduleID": "CursedDoubleOhModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 13.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -2668,7 +2688,7 @@
   {
     "moduleDisplayName": "Daylight Directions",
     "moduleID": "daylightDirections",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 6.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -2688,7 +2708,7 @@
   {
     "moduleDisplayName": "Decolored Squares",
     "moduleID": "DecoloredSquaresModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 9.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -2749,7 +2769,7 @@
   {
     "moduleDisplayName": "DetoNATO",
     "moduleID": "Detonato",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -2769,7 +2789,7 @@
   {
     "moduleDisplayName": "Digit String",
     "moduleID": "digitString",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -2810,7 +2830,7 @@
     "moduleDisplayName": "Digital Root",
     "moduleID": "digitalRoot",
     "moduleScoreOverride": false,
-    "moduleScore": 2.0,
+    "moduleScore": 1.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "unclaimable": false,
@@ -2829,7 +2849,7 @@
   {
     "moduleDisplayName": "Discolored Squares",
     "moduleID": "DiscoloredSquaresModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -2850,7 +2870,7 @@
     "moduleDisplayName": "Disordered Keys",
     "moduleID": "disorderedKeys",
     "moduleScoreOverride": true,
-    "moduleScore": 13.0,
+    "moduleScore": 12.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "unclaimable": false,
@@ -2869,7 +2889,7 @@
   {
     "moduleDisplayName": "Divided Squares",
     "moduleID": "DividedSquaresModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 6.0,
     "moduleScoreIsDynamic": false,
     "announceModule": true,
@@ -2889,8 +2909,8 @@
   {
     "moduleDisplayName": "Divisible Numbers",
     "moduleID": "divisibleNumbers",
-    "moduleScoreOverride": true,
-    "moduleScore": 4.0,
+    "moduleScoreOverride": false,
+    "moduleScore": 3.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "unclaimable": false,
@@ -2909,7 +2929,7 @@
   {
     "moduleDisplayName": "Dominoes",
     "moduleID": "dominoes",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 5.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -2929,7 +2949,7 @@
   {
     "moduleDisplayName": "Double Arrows",
     "moduleID": "doubleArrows",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 12.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -2969,7 +2989,7 @@
   {
     "moduleDisplayName": "Double Expert",
     "moduleID": "doubleExpert",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -2989,7 +3009,7 @@
   {
     "moduleDisplayName": "Double-Oh",
     "moduleID": "DoubleOhModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 6.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -3009,7 +3029,7 @@
   {
     "moduleDisplayName": "Dr. Doctor",
     "moduleID": "DrDoctorModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -3029,7 +3049,7 @@
   {
     "moduleDisplayName": "Dragon Energy",
     "moduleID": "dragonEnergy",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 13.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -3108,7 +3128,7 @@
   {
     "moduleDisplayName": "Elder Futhark",
     "moduleID": "elderFuthark",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -3145,7 +3165,7 @@
   {
     "moduleDisplayName": "Encrypted Equations",
     "moduleID": "EncryptedEquationsModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -3165,7 +3185,7 @@
   {
     "moduleDisplayName": "Encrypted Morse",
     "moduleID": "EncryptedMorse",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 15.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -3206,8 +3226,8 @@
   {
     "moduleDisplayName": "Encryption Bingo",
     "moduleID": "encryptionBingo",
-    "moduleScoreOverride": true,
-    "moduleScore": 10.0,
+    "moduleScoreOverride": false,
+    "moduleScore": 0.0,
     "moduleScoreIsDynamic": false,
     "announceModule": true,
     "unclaimable": false,
@@ -3226,7 +3246,7 @@
   {
     "moduleDisplayName": "English Test",
     "moduleID": "EnglishTest",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 5.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -3243,7 +3263,7 @@
   {
     "moduleDisplayName": "Equations",
     "moduleID": "equations",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -3283,7 +3303,7 @@
   {
     "moduleDisplayName": "Error Codes",
     "moduleID": "errorCodes",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 4.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -3340,7 +3360,7 @@
   {
     "moduleDisplayName": "Factory Maze",
     "moduleID": "factoryMaze",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 18.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -3360,7 +3380,7 @@
   {
     "moduleDisplayName": "Fast Math",
     "moduleID": "fastMath",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -3380,7 +3400,7 @@
   {
     "moduleDisplayName": "Faulty Backgrounds",
     "moduleID": "FaultyBackgrounds",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 5.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -3400,7 +3420,7 @@
   {
     "moduleDisplayName": "Faulty Digital Root",
     "moduleID": "faultyDigitalRootModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 4.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -3420,8 +3440,8 @@
   {
     "moduleDisplayName": "Faulty RGB Maze",
     "moduleID": "faultyrgbMaze",
-    "moduleScoreOverride": true,
-    "moduleScore": 18.0,
+    "moduleScoreOverride": false,
+    "moduleScore": 20.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "unclaimable": false,
@@ -3440,7 +3460,7 @@
   {
     "moduleDisplayName": "Faulty Sink",
     "moduleID": "Faulty Sink",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 5.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -3460,7 +3480,7 @@
   {
     "moduleDisplayName": "Faulty Sink",
     "moduleID": "FaultySink",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 6.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -3520,7 +3540,7 @@
   {
     "moduleDisplayName": "Find The Date",
     "moduleID": "DateFinder",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 6.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -3540,7 +3560,7 @@
   {
     "moduleDisplayName": "FizzBuzz",
     "moduleID": "fizzBuzzModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 9.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -3560,7 +3580,7 @@
   {
     "moduleDisplayName": "Flags",
     "moduleID": "FlagsModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 9.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -3580,7 +3600,7 @@
   {
     "moduleDisplayName": "Flash Memory",
     "moduleID": "FlashMemory",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 6.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -3620,7 +3640,7 @@
   {
     "moduleDisplayName": "Flavor Text",
     "moduleID": "FlavorText",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 3.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -3640,7 +3660,7 @@
   {
     "moduleDisplayName": "Flavor Text EX",
     "moduleID": "FlavorTextCruel",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -3681,7 +3701,7 @@
   {
     "moduleDisplayName": "Flower Patch",
     "moduleID": "flowerPatch",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 6.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -3721,7 +3741,7 @@
   {
     "moduleDisplayName": "Font Select",
     "moduleID": "FontSelect",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 6.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -3741,7 +3761,7 @@
   {
     "moduleDisplayName": "Footnotes",
     "moduleID": "footnotes",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -3761,7 +3781,7 @@
   {
     "moduleDisplayName": "Foreign Exchange Rates",
     "moduleID": "ForeignExchangeRates",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 3.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -3778,7 +3798,7 @@
   {
     "moduleDisplayName": "Forget Enigma",
     "moduleID": "forgetEnigma",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 0.0,
     "moduleScoreIsDynamic": true,
     "announceModule": true,
@@ -3958,7 +3978,7 @@
   {
     "moduleDisplayName": "Four-Card Monte",
     "moduleID": "Krit4CardMonte",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 11.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -3978,7 +3998,7 @@
   {
     "moduleDisplayName": "Free Parking",
     "moduleID": "freeParking",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -4018,7 +4038,7 @@
   {
     "moduleDisplayName": "Fruits",
     "moduleID": "fruits",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 4.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -4038,7 +4058,7 @@
   {
     "moduleDisplayName": "Functions",
     "moduleID": "qFunctions",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 11.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -4058,7 +4078,7 @@
   {
     "moduleDisplayName": "Gadgetron Vendor",
     "moduleID": "lgndGadgetronVendor",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -4078,7 +4098,7 @@
   {
     "moduleDisplayName": "Game of Life Cruel",
     "moduleID": "GameOfLifeCruel",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 14.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -4098,7 +4118,7 @@
   {
     "moduleDisplayName": "Game of Life Simple",
     "moduleID": "GameOfLifeSimple",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 11.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -4118,7 +4138,7 @@
   {
     "moduleDisplayName": "Garfield Kart",
     "moduleID": "garfieldKart",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -4138,7 +4158,7 @@
   {
     "moduleDisplayName": "Genetic Sequence",
     "moduleID": "geneticSequence",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -4158,7 +4178,7 @@
   {
     "moduleDisplayName": "Geometry Dash",
     "moduleID": "geometryDashModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 11.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -4178,7 +4198,7 @@
   {
     "moduleDisplayName": "Graffiti Numbers",
     "moduleID": "graffitiNumbers",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -4199,7 +4219,7 @@
     "moduleDisplayName": "Graphic Memory",
     "moduleID": "graphicMemory",
     "moduleScoreOverride": true,
-    "moduleScore": 12.0,
+    "moduleScore": 13.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "unclaimable": false,
@@ -4218,7 +4238,7 @@
   {
     "moduleDisplayName": "Gray Cipher",
     "moduleID": "grayCipher",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 12.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -4238,7 +4258,7 @@
   {
     "moduleDisplayName": "Greek Calculus",
     "moduleID": "greekCalculus",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 12.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -4258,7 +4278,7 @@
   {
     "moduleDisplayName": "Green Arrows",
     "moduleID": "greenArrowsModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 4.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -4279,7 +4299,7 @@
     "moduleDisplayName": "Green Cipher",
     "moduleID": "greenCipher",
     "moduleScoreOverride": true,
-    "moduleScore": 13.0,
+    "moduleScore": 11.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "unclaimable": false,
@@ -4298,8 +4318,8 @@
   {
     "moduleDisplayName": "Grid Matching",
     "moduleID": "GridMatching",
-    "moduleScoreOverride": true,
-    "moduleScore": 9.0,
+    "moduleScoreOverride": false,
+    "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "unclaimable": false,
@@ -4318,7 +4338,7 @@
   {
     "moduleDisplayName": "Gridlock",
     "moduleID": "GridlockModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 9.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -4338,7 +4358,7 @@
   {
     "moduleDisplayName": "Grocery Store",
     "moduleID": "groceryStore",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -4358,7 +4378,7 @@
   {
     "moduleDisplayName": "Gryphons",
     "moduleID": "gryphons",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -4378,7 +4398,7 @@
   {
     "moduleDisplayName": "Guitar Chords",
     "moduleID": "guitarChords",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -4398,7 +4418,7 @@
   {
     "moduleDisplayName": "Harmony Sequence",
     "moduleID": "harmonySequence",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -4418,7 +4438,7 @@
   {
     "moduleDisplayName": "Heraldry",
     "moduleID": "heraldry",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 15.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -4459,7 +4479,7 @@
   {
     "moduleDisplayName": "Hexamaze",
     "moduleID": "HexamazeModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -4499,7 +4519,7 @@
   {
     "moduleDisplayName": "Hieroglyphics",
     "moduleID": "hieroglyphics",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -4516,7 +4536,7 @@
   {
     "moduleDisplayName": "Hill Cycle",
     "moduleID": "hillCycle",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 15.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -4536,7 +4556,7 @@
   {
     "moduleDisplayName": "Hogwarts",
     "moduleID": "HogwartsModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "announceModule": true,
@@ -4556,7 +4576,7 @@
   {
     "moduleDisplayName": "Hold Ups",
     "moduleID": "KritHoldUps",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -4596,7 +4616,7 @@
   {
     "moduleDisplayName": "Horrible Memory",
     "moduleID": "horribleMemory",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 9.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -4677,7 +4697,7 @@
   {
     "moduleDisplayName": "Hunting",
     "moduleID": "hunting",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -4717,7 +4737,7 @@
   {
     "moduleDisplayName": "Ice Cream",
     "moduleID": "iceCreamModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 9.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -4778,7 +4798,7 @@
     "moduleDisplayName": "Indigo Cipher",
     "moduleID": "indigoCipher",
     "moduleScoreOverride": true,
-    "moduleScore": 17.0,
+    "moduleScore": 16.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "unclaimable": false,
@@ -4797,7 +4817,7 @@
   {
     "moduleDisplayName": "Ingredients",
     "moduleID": "ingredients",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -4817,7 +4837,7 @@
   {
     "moduleDisplayName": "Insanagrams",
     "moduleID": "insanagrams",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -4837,7 +4857,7 @@
   {
     "moduleDisplayName": "Insane Talk",
     "moduleID": "insanetalk",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 4.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -4877,7 +4897,7 @@
   {
     "moduleDisplayName": "Intervals",
     "moduleID": "intervals",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 12.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -4897,7 +4917,7 @@
   {
     "moduleDisplayName": "Jack Attack",
     "moduleID": "jackAttack",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -4917,7 +4937,7 @@
   {
     "moduleDisplayName": "Jumble Cycle",
     "moduleID": "jumbleCycle",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 14.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -4937,7 +4957,7 @@
   {
     "moduleDisplayName": "Kanji",
     "moduleID": "KanjiModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 6.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -4974,7 +4994,7 @@
   {
     "moduleDisplayName": "Keypad Combinations",
     "moduleID": "keypadCombinations",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 4.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -4994,7 +5014,7 @@
   {
     "moduleDisplayName": "Keypad Lock",
     "moduleID": "keypadLock",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -5031,7 +5051,7 @@
   {
     "moduleDisplayName": "Kooky Keypad",
     "moduleID": "kookyKeypadModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -5051,7 +5071,7 @@
   {
     "moduleDisplayName": "Krazy Talk",
     "moduleID": "krazyTalk",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 11.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -5091,7 +5111,7 @@
   {
     "moduleDisplayName": "Langton's Ant",
     "moduleID": "langtonAnt",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 17.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -5111,7 +5131,7 @@
   {
     "moduleDisplayName": "Lasers",
     "moduleID": "lasers",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 9.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -5131,7 +5151,7 @@
   {
     "moduleDisplayName": "Laundry",
     "moduleID": "Laundry",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 11.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -5151,7 +5171,7 @@
   {
     "moduleDisplayName": "LED Encryption",
     "moduleID": "LEDEnc",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 6.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -5172,7 +5192,7 @@
     "moduleDisplayName": "LED Grid",
     "moduleID": "ledGrid",
     "moduleScoreOverride": false,
-    "moduleScore": 4.0,
+    "moduleScore": 3.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "unclaimable": false,
@@ -5192,7 +5212,7 @@
     "moduleDisplayName": "LED Math",
     "moduleID": "lgndLEDMath",
     "moduleScoreOverride": false,
-    "moduleScore": 5.0,
+    "moduleScore": 4.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "unclaimable": false,
@@ -5211,7 +5231,7 @@
   {
     "moduleDisplayName": "Left and Right",
     "moduleID": "leftandRight",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 9.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -5248,7 +5268,7 @@
   {
     "moduleDisplayName": "Light Cycle",
     "moduleID": "LightCycleModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -5329,7 +5349,7 @@
   {
     "moduleDisplayName": "Listening",
     "moduleID": "Listening",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 4.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -5346,7 +5366,7 @@
   {
     "moduleDisplayName": "Logic",
     "moduleID": "Logic",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -5366,7 +5386,7 @@
   {
     "moduleDisplayName": "Logic Gates",
     "moduleID": "logicGates",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -5406,7 +5426,7 @@
   {
     "moduleDisplayName": "Lombax Cubes",
     "moduleID": "lgndLombaxCubes",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 16.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -5426,7 +5446,7 @@
   {
     "moduleDisplayName": "Loopover",
     "moduleID": "loopover",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 11.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -5447,7 +5467,7 @@
     "moduleDisplayName": "Lousy Chess",
     "moduleID": "lousyChess",
     "moduleScoreOverride": true,
-    "moduleScore": 5.0,
+    "moduleScore": 20.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "unclaimable": false,
@@ -5466,7 +5486,7 @@
   {
     "moduleDisplayName": "Lucky Dice",
     "moduleID": "luckyDice",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 5.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -5486,7 +5506,7 @@
   {
     "moduleDisplayName": "Mad Memory",
     "moduleID": "MadMemory",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -5526,7 +5546,7 @@
   {
     "moduleDisplayName": "Magicka",
     "moduleID": "MagickaModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 5.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -5586,7 +5606,7 @@
   {
     "moduleDisplayName": "Manometers",
     "moduleID": "manometers",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -5647,7 +5667,7 @@
     "moduleDisplayName": "Mashematics",
     "moduleID": "mashematics",
     "moduleScoreOverride": false,
-    "moduleScore": 4.0,
+    "moduleScore": 2.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "unclaimable": false,
@@ -5686,7 +5706,7 @@
   {
     "moduleDisplayName": "Mastermind Simple",
     "moduleID": "Mastermind Simple",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -5706,7 +5726,7 @@
   {
     "moduleDisplayName": "Masyu",
     "moduleID": "masyuModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 11.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -5726,7 +5746,7 @@
   {
     "moduleDisplayName": "Matchematics",
     "moduleID": "matchematics",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 4.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -5783,7 +5803,7 @@
   {
     "moduleDisplayName": "Maze³",
     "moduleID": "maze3",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 12.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -5803,7 +5823,7 @@
   {
     "moduleDisplayName": "Mazematics",
     "moduleID": "mazematics",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 12.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -5823,7 +5843,7 @@
   {
     "moduleDisplayName": "Mega Man 2",
     "moduleID": "megaMan2",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -5843,7 +5863,7 @@
   {
     "moduleDisplayName": "Melody Sequencer",
     "moduleID": "melodySequencer",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 9.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -5864,7 +5884,7 @@
     "moduleDisplayName": "Memorable Buttons",
     "moduleID": "memorableButtons",
     "moduleScoreOverride": true,
-    "moduleScore": 5.0,
+    "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "unclaimable": false,
@@ -5897,7 +5917,7 @@
   {
     "moduleDisplayName": "Meter",
     "moduleID": "meter",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 6.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -5917,7 +5937,7 @@
   {
     "moduleDisplayName": "Microcontroller",
     "moduleID": "Microcontroller",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -5934,7 +5954,7 @@
   {
     "moduleDisplayName": "Micro-Modules",
     "moduleID": "KritMicroModules",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 17.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -5954,7 +5974,7 @@
   {
     "moduleDisplayName": "Mineseeker",
     "moduleID": "mineseeker",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 9.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -5974,7 +5994,7 @@
   {
     "moduleDisplayName": "Minesweeper",
     "moduleID": "MinesweeperModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 12.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -5994,7 +6014,7 @@
   {
     "moduleDisplayName": "Misordered Keys",
     "moduleID": "misorderedKeys",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 14.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -6034,7 +6054,7 @@
   {
     "moduleDisplayName": "Module Homework",
     "moduleID": "KritHomework",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -6054,7 +6074,7 @@
   {
     "moduleDisplayName": "Module Listening",
     "moduleID": "moduleListening",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -6094,7 +6114,7 @@
   {
     "moduleDisplayName": "Module Movements",
     "moduleID": "moduleMovements",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 6.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -6114,7 +6134,7 @@
   {
     "moduleDisplayName": "Modules Against Humanity",
     "moduleID": "ModuleAgainstHumanity",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -6134,8 +6154,8 @@
   {
     "moduleDisplayName": "Modulo",
     "moduleID": "modulo",
-    "moduleScoreOverride": true,
-    "moduleScore": 3.0,
+    "moduleScoreOverride": false,
+    "moduleScore": 2.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "unclaimable": false,
@@ -6194,7 +6214,7 @@
   {
     "moduleDisplayName": "Monsplode, Fight!",
     "moduleID": "monsplodeFight",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 6.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -6214,7 +6234,7 @@
   {
     "moduleDisplayName": "Morse Buttons",
     "moduleID": "morseButtons",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -6288,7 +6308,7 @@
   {
     "moduleDisplayName": "Morse-A-Maze",
     "moduleID": "MorseAMaze",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 9.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -6308,7 +6328,7 @@
   {
     "moduleDisplayName": "Morsematics",
     "moduleID": "MorseV2",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -6328,7 +6348,7 @@
   {
     "moduleDisplayName": "Mortal Kombat",
     "moduleID": "mortalKombat",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 6.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -6365,7 +6385,7 @@
   {
     "moduleDisplayName": "Mouse In The Maze",
     "moduleID": "MouseInTheMaze",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -6385,7 +6405,7 @@
   {
     "moduleDisplayName": "Murder",
     "moduleID": "murder",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -6402,7 +6422,7 @@
   {
     "moduleDisplayName": "Mystic Square",
     "moduleID": "MysticSquareModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 11.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -6422,7 +6442,7 @@
   {
     "moduleDisplayName": "N&Ms",
     "moduleID": "NandMs",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 3.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -6442,8 +6462,8 @@
   {
     "moduleDisplayName": "Natures",
     "moduleID": "mcdNatures",
-    "moduleScoreOverride": false,
-    "moduleScore": 5.0,
+    "moduleScoreOverride": true,
+    "moduleScore": 3.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "unclaimable": false,
@@ -6755,7 +6775,7 @@
   {
     "moduleDisplayName": "Neutralization",
     "moduleID": "neutralization",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -6795,7 +6815,7 @@
   {
     "moduleDisplayName": "Nonogram",
     "moduleID": "NonogramModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 9.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -6815,7 +6835,7 @@
   {
     "moduleDisplayName": "Number Nimbleness",
     "moduleID": "numberNimbleness",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 9.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -6852,7 +6872,7 @@
   {
     "moduleDisplayName": "Numbers",
     "moduleID": "Numbers",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 4.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -6872,7 +6892,7 @@
   {
     "moduleDisplayName": "Object Shows",
     "moduleID": "objectShows",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 5.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -6892,7 +6912,7 @@
   {
     "moduleDisplayName": "Odd One Out",
     "moduleID": "OddOneOutModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 11.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -6912,7 +6932,7 @@
   {
     "moduleDisplayName": "Old Fogey",
     "moduleID": "oldFogey",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 14.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -6932,7 +6952,7 @@
   {
     "moduleDisplayName": "Only Connect",
     "moduleID": "OnlyConnectModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 11.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -6972,7 +6992,7 @@
   {
     "moduleDisplayName": "Orange Cipher",
     "moduleID": "orangeCipher",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 17.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -6992,7 +7012,7 @@
   {
     "moduleDisplayName": "Ordered Keys",
     "moduleID": "orderedKeys",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 9.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -7032,7 +7052,7 @@
   {
     "moduleDisplayName": "Orientation Cube",
     "moduleID": "OrientationCube",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -7049,7 +7069,7 @@
   {
     "moduleDisplayName": "Painting",
     "moduleID": "Painting",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -7069,7 +7089,7 @@
   {
     "moduleDisplayName": "Partial Derivatives",
     "moduleID": "partialDerivatives",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 13.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -7163,7 +7183,7 @@
   {
     "moduleDisplayName": "Pattern Cube",
     "moduleID": "PatternCubeModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 14.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -7203,7 +7223,7 @@
   {
     "moduleDisplayName": "Periodic Table",
     "moduleID": "periodicTable",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -7223,7 +7243,7 @@
   {
     "moduleDisplayName": "Perplexing Wires",
     "moduleID": "PerplexingWiresModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -7323,7 +7343,7 @@
   {
     "moduleDisplayName": "Pigpen Cycle",
     "moduleID": "pigpenCycle",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -7343,7 +7363,7 @@
   {
     "moduleDisplayName": "Pigpen Rotations",
     "moduleID": "pigpenRotations",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -7363,7 +7383,7 @@
   {
     "moduleDisplayName": "Planets",
     "moduleID": "planets",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 11.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -7403,7 +7423,7 @@
   {
     "moduleDisplayName": "Playfair Cycle",
     "moduleID": "playfairCycle",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 12.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -7423,7 +7443,7 @@
   {
     "moduleDisplayName": "Plumbing",
     "moduleID": "MazeV2",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 12.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -7483,7 +7503,7 @@
   {
     "moduleDisplayName": "Poker",
     "moduleID": "Poker",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -7503,7 +7523,7 @@
   {
     "moduleDisplayName": "Polyhedral Maze",
     "moduleID": "PolyhedralMazeModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -7523,7 +7543,7 @@
   {
     "moduleDisplayName": "Press X",
     "moduleID": "PressX",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 6.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -7543,7 +7563,7 @@
   {
     "moduleDisplayName": "Prime Checker",
     "moduleID": "PrimeChecker",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 3.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -7563,7 +7583,7 @@
   {
     "moduleDisplayName": "Probing",
     "moduleID": "Probing",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -7580,7 +7600,7 @@
   {
     "moduleDisplayName": "Purgatory",
     "moduleID": "PurgatoryModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -7641,7 +7661,7 @@
   {
     "moduleDisplayName": "Question Mark",
     "moduleID": "Questionmark",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 5.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -7661,7 +7681,7 @@
   {
     "moduleDisplayName": "Quintuples",
     "moduleID": "quintuples",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 14.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -7701,7 +7721,7 @@
   {
     "moduleDisplayName": "Qwirkle",
     "moduleID": "qwirkle",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -7741,8 +7761,8 @@
   {
     "moduleDisplayName": "Raiding Temples",
     "moduleID": "raidingTemples",
-    "moduleScoreOverride": true,
-    "moduleScore": 8.0,
+    "moduleScoreOverride": false,
+    "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "unclaimable": false,
@@ -7801,7 +7821,7 @@
   {
     "moduleDisplayName": "Recorded Keys",
     "moduleID": "recordedKeys",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 14.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -7821,8 +7841,8 @@
   {
     "moduleDisplayName": "Red Arrows",
     "moduleID": "redArrowsModule",
-    "moduleScoreOverride": true,
-    "moduleScore": 6.0,
+    "moduleScoreOverride": false,
+    "moduleScore": 5.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "unclaimable": false,
@@ -7841,8 +7861,8 @@
   {
     "moduleDisplayName": "Red Buttons",
     "moduleID": "SamRedButtons",
-    "moduleScoreOverride": true,
-    "moduleScore": 5.0,
+    "moduleScoreOverride": false,
+    "moduleScore": 6.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "unclaimable": false,
@@ -7862,7 +7882,7 @@
     "moduleDisplayName": "Red Cipher",
     "moduleID": "redCipher",
     "moduleScoreOverride": true,
-    "moduleScore": 16.0,
+    "moduleScore": 15.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "unclaimable": false,
@@ -7881,7 +7901,7 @@
   {
     "moduleDisplayName": "Regular Crazy Talk",
     "moduleID": "RegularCrazyTalkModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -7901,7 +7921,7 @@
   {
     "moduleDisplayName": "Reordered Keys",
     "moduleID": "reorderedKeys",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 11.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -7921,7 +7941,7 @@
   {
     "moduleDisplayName": "Resistors",
     "moduleID": "resistors",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -7938,7 +7958,7 @@
   {
     "moduleDisplayName": "Retirement",
     "moduleID": "retirement",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -7978,7 +7998,7 @@
   {
     "moduleDisplayName": "RGB Maze",
     "moduleID": "rgbMaze",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 16.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -7998,7 +8018,7 @@
   {
     "moduleDisplayName": "Rhythms",
     "moduleID": "MusicRhythms",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -8018,7 +8038,7 @@
   {
     "moduleDisplayName": "Risky Wires",
     "moduleID": "riskyWires",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -8038,7 +8058,7 @@
   {
     "moduleDisplayName": "Robot Programming",
     "moduleID": "robotProgramming",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 19.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -8078,7 +8098,7 @@
   {
     "moduleDisplayName": "Roman Art",
     "moduleID": "romanArtModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 12.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -8139,7 +8159,7 @@
   {
     "moduleDisplayName": "Rubik’s Clock",
     "moduleID": "rubiksClock",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 13.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -8159,7 +8179,7 @@
   {
     "moduleDisplayName": "Rubik's Cube",
     "moduleID": "RubiksCubeModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -8179,7 +8199,7 @@
   {
     "moduleDisplayName": "S.E.T.",
     "moduleID": "SetModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -8199,8 +8219,8 @@
   {
     "moduleDisplayName": "Safety Safe",
     "moduleID": "PasswordV2",
-    "moduleScoreOverride": true,
-    "moduleScore": 11.0,
+    "moduleScoreOverride": false,
+    "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "unclaimable": false,
@@ -8219,7 +8239,7 @@
   {
     "moduleDisplayName": "Safety Square",
     "moduleID": "safetySquare",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -8259,7 +8279,7 @@
   {
     "moduleDisplayName": "Scripting",
     "moduleID": "KritScripts",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 11.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -8279,7 +8299,7 @@
   {
     "moduleDisplayName": "Sea Shells",
     "moduleID": "SeaShells",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -8296,7 +8316,7 @@
   {
     "moduleDisplayName": "Semaphore",
     "moduleID": "Semaphore",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 6.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -8316,8 +8336,8 @@
   {
     "moduleDisplayName": "Seven Choose Four",
     "moduleID": "sevenChooseFour",
-    "moduleScoreOverride": true,
-    "moduleScore": 5.0,
+    "moduleScoreOverride": false,
+    "moduleScore": 13.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "unclaimable": false,
@@ -8330,13 +8350,13 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
     "moduleDisplayName": "Seven Deadly Sins",
     "moduleID": "sevenDeadlySins",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -8376,7 +8396,7 @@
   {
     "moduleDisplayName": "Shape Shift",
     "moduleID": "shapeshift",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 6.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -8393,7 +8413,7 @@
   {
     "moduleDisplayName": "Shapes And Bombs",
     "moduleID": "ShapesBombs",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 14.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -8453,7 +8473,7 @@
   {
     "moduleDisplayName": "Silly Slots",
     "moduleID": "SillySlots",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -8494,7 +8514,7 @@
   {
     "moduleDisplayName": "Simon Samples",
     "moduleID": "simonSamples",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 9.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -8531,7 +8551,7 @@
   {
     "moduleDisplayName": "Simon Scrambles",
     "moduleID": "simonScrambles",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 4.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -8551,7 +8571,7 @@
   {
     "moduleDisplayName": "Simon Screams",
     "moduleID": "SimonScreamsModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 9.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -8571,7 +8591,7 @@
   {
     "moduleDisplayName": "Simon Selects",
     "moduleID": "simonSelectsModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -8611,7 +8631,7 @@
   {
     "moduleDisplayName": "Simon Shrieks",
     "moduleID": "SimonShrieksModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 12.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -8631,7 +8651,7 @@
   {
     "moduleDisplayName": "Simon Simons",
     "moduleID": "simonSimons",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 4.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -8651,7 +8671,7 @@
   {
     "moduleDisplayName": "Simon Sings",
     "moduleID": "SimonSingsModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 14.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -8671,7 +8691,7 @@
   {
     "moduleDisplayName": "Simon Sounds",
     "moduleID": "simonSounds",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -8691,7 +8711,7 @@
   {
     "moduleDisplayName": "Simon Speaks",
     "moduleID": "SimonSpeaksModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -8711,7 +8731,7 @@
   {
     "moduleDisplayName": "Simon Spins",
     "moduleID": "SimonSpinsModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -8771,7 +8791,7 @@
   {
     "moduleDisplayName": "Simon Stops",
     "moduleID": "simonStops",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 11.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -8791,7 +8811,7 @@
   {
     "moduleDisplayName": "Simon Stores",
     "moduleID": "simonStores",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 25.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -8811,7 +8831,7 @@
   {
     "moduleDisplayName": "Simon's On First",
     "moduleID": "simonsOnFirst",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 9.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -8888,7 +8908,7 @@
   {
     "moduleDisplayName": "Skewed Slots",
     "moduleID": "SkewedSlotsModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -8908,7 +8928,7 @@
   {
     "moduleDisplayName": "Skyrim",
     "moduleID": "skyrim",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 12.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -8929,7 +8949,7 @@
     "moduleDisplayName": "Snakes and Ladders",
     "moduleID": "snakesAndLadders",
     "moduleScoreOverride": true,
-    "moduleScore": 12.0,
+    "moduleScore": 13.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "unclaimable": false,
@@ -8969,7 +8989,7 @@
   {
     "moduleDisplayName": "Snooker",
     "moduleID": "snooker",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -9066,7 +9086,7 @@
   {
     "moduleDisplayName": "Spelling Bee",
     "moduleID": "spellingBee",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 4.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -9106,7 +9126,7 @@
   {
     "moduleDisplayName": "Splitting The Loot",
     "moduleID": "SplittingTheLootModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 12.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -9126,7 +9146,7 @@
   {
     "moduleDisplayName": "Square Button",
     "moduleID": "ButtonV2",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 6.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -9146,7 +9166,7 @@
   {
     "moduleDisplayName": "Stack'em",
     "moduleID": "stackem",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 6.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -9166,7 +9186,7 @@
   {
     "moduleDisplayName": "Stained Glass",
     "moduleID": "stainedGlass",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -9183,7 +9203,7 @@
   {
     "moduleDisplayName": "Sticky Notes",
     "moduleID": "stickyNotes",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 6.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -9203,7 +9223,7 @@
   {
     "moduleDisplayName": "Subscribe to Pewdiepie",
     "moduleID": "subscribeToPewdiepie",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -9243,7 +9263,7 @@
   {
     "moduleDisplayName": "Sueet Wall",
     "moduleID": "SueetWall",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 9.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -9263,7 +9283,7 @@
   {
     "moduleDisplayName": "Superlogic",
     "moduleID": "SuperlogicModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 9.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -9283,7 +9303,7 @@
   {
     "moduleDisplayName": "Switches",
     "moduleID": "switchModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 4.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -9300,7 +9320,7 @@
   {
     "moduleDisplayName": "Symbol Cycle",
     "moduleID": "SymbolCycleModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 9.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -9320,7 +9340,7 @@
   {
     "moduleDisplayName": "Symbolic Colouring",
     "moduleID": "symbolicColouring",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 6.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -9360,8 +9380,8 @@
   {
     "moduleDisplayName": "Symbolic Password",
     "moduleID": "symbolicPasswordModule",
-    "moduleScoreOverride": true,
-    "moduleScore": 5.0,
+    "moduleScoreOverride": false,
+    "moduleScore": 6.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "unclaimable": false,
@@ -9380,7 +9400,7 @@
   {
     "moduleDisplayName": "SYNC-125 [3]",
     "moduleID": "sync125_3",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -9400,7 +9420,7 @@
   {
     "moduleDisplayName": "Synchronization",
     "moduleID": "SynchronizationModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 11.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -9460,7 +9480,7 @@
   {
     "moduleDisplayName": "Tangrams",
     "moduleID": "Tangrams",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 9.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -9480,8 +9500,8 @@
   {
     "moduleDisplayName": "Tap Code",
     "moduleID": "tapCode",
-    "moduleScoreOverride": true,
-    "moduleScore": 8.0,
+    "moduleScoreOverride": false,
+    "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "unclaimable": false,
@@ -9500,7 +9520,7 @@
   {
     "moduleDisplayName": "Tasha Squeals",
     "moduleID": "tashaSqueals",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -9520,7 +9540,7 @@
   {
     "moduleDisplayName": "Tax Returns",
     "moduleID": "taxReturns",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 18.0,
     "moduleScoreIsDynamic": false,
     "announceModule": true,
@@ -9540,7 +9560,7 @@
   {
     "moduleDisplayName": "Ten-Button Color Code",
     "moduleID": "TenButtonColorCode",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 12.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -9580,7 +9600,7 @@
   {
     "moduleDisplayName": "Ternary Converter",
     "moduleID": "qkTernaryConverter",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 5.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -9621,7 +9641,7 @@
   {
     "moduleDisplayName": "TetraVex",
     "moduleID": "ksmTetraVex",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 9.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -9682,8 +9702,8 @@
   {
     "moduleDisplayName": "Text Field",
     "moduleID": "TextField",
-    "moduleScoreOverride": true,
-    "moduleScore": 4.0,
+    "moduleScoreOverride": false,
+    "moduleScore": 3.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "unclaimable": false,
@@ -9702,7 +9722,7 @@
   {
     "moduleDisplayName": "The Block",
     "moduleID": "theBlock",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -9722,7 +9742,7 @@
   {
     "moduleDisplayName": "The Bulb",
     "moduleID": "TheBulbModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 5.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -9742,7 +9762,7 @@
   {
     "moduleDisplayName": "The Clock",
     "moduleID": "TheClockModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 6.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -9782,7 +9802,7 @@
   {
     "moduleDisplayName": "The Colored Maze",
     "moduleID": "coloredMaze",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 4.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -9822,8 +9842,8 @@
   {
     "moduleDisplayName": "The Cube",
     "moduleID": "cube",
-    "moduleScoreOverride": false,
-    "moduleScore": 20.0,
+    "moduleScoreOverride": true,
+    "moduleScore": 18.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "unclaimable": false,
@@ -9842,7 +9862,7 @@
   {
     "moduleDisplayName": "The Dealmaker",
     "moduleID": "thedealmaker",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -9862,7 +9882,7 @@
   {
     "moduleDisplayName": "The Deck of Many Things",
     "moduleID": "deckOfManyThings",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 11.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -9922,7 +9942,7 @@
   {
     "moduleDisplayName": "The Gamepad",
     "moduleID": "TheGamepadModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -9962,8 +9982,8 @@
   {
     "moduleDisplayName": "The Hexabutton",
     "moduleID": "hexabutton",
-    "moduleScoreOverride": true,
-    "moduleScore": 11.0,
+    "moduleScoreOverride": false,
+    "moduleScore": 9.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "unclaimable": false,
@@ -9982,7 +10002,7 @@
   {
     "moduleDisplayName": "The High Score",
     "moduleID": "ksmHighScore",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -10002,7 +10022,7 @@
   {
     "moduleDisplayName": "The Hypercube",
     "moduleID": "TheHypercubeModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 15.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -10023,7 +10043,7 @@
     "moduleDisplayName": "The Hyperlink",
     "moduleID": "hyperlink",
     "moduleScoreOverride": true,
-    "moduleScore": 10.0,
+    "moduleScore": 11.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "unclaimable": false,
@@ -10042,7 +10062,7 @@
   {
     "moduleDisplayName": "The iPhone",
     "moduleID": "iPhone",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -10082,7 +10102,7 @@
   {
     "moduleDisplayName": "The Jewel Vault",
     "moduleID": "jewelVault",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 14.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -10103,7 +10123,7 @@
     "moduleDisplayName": "The Jukebox",
     "moduleID": "jukebox",
     "moduleScoreOverride": false,
-    "moduleScore": 3.0,
+    "moduleScore": 2.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "unclaimable": false,
@@ -10122,7 +10142,7 @@
   {
     "moduleDisplayName": "The Legendre Symbol",
     "moduleID": "legendreSymbol",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -10142,7 +10162,7 @@
   {
     "moduleDisplayName": "The London Underground",
     "moduleID": "londonUnderground",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -10163,7 +10183,7 @@
     "moduleDisplayName": "The Matrix",
     "moduleID": "matrix",
     "moduleScoreOverride": true,
-    "moduleScore": 5.0,
+    "moduleScore": 9.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "unclaimable": false,
@@ -10179,7 +10199,7 @@
   {
     "moduleDisplayName": "The Modkit",
     "moduleID": "modkit",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -10199,7 +10219,7 @@
   {
     "moduleDisplayName": "The Moon",
     "moduleID": "moon",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 13.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -10259,7 +10279,7 @@
   {
     "moduleDisplayName": "The Plunger Button",
     "moduleID": "plungerButton",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 4.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -10279,7 +10299,7 @@
   {
     "moduleDisplayName": "The Radio",
     "moduleID": "KritRadio",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -10319,7 +10339,7 @@
   {
     "moduleDisplayName": "The Sphere",
     "moduleID": "sphere",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 14.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -10339,7 +10359,7 @@
   {
     "moduleDisplayName": "The Stare",
     "moduleID": "StareModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -10359,7 +10379,7 @@
   {
     "moduleDisplayName": "The Stock Market",
     "moduleID": "stockMarket",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 12.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -10379,7 +10399,7 @@
   {
     "moduleDisplayName": "The Stopwatch",
     "moduleID": "stopwatch",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -10399,7 +10419,7 @@
   {
     "moduleDisplayName": "The Sun",
     "moduleID": "sun",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 11.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -10459,7 +10479,7 @@
   {
     "moduleDisplayName": "The Time Keeper",
     "moduleID": "timeKeeper",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 12.0,
     "moduleScoreIsDynamic": false,
     "announceModule": true,
@@ -10499,7 +10519,7 @@
   {
     "moduleDisplayName": "The Triangle Button",
     "moduleID": "theTriangleButton",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 6.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -10519,7 +10539,7 @@
   {
     "moduleDisplayName": "The Troll",
     "moduleID": "troll",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -10536,7 +10556,7 @@
   {
     "moduleDisplayName": "The Ultracube",
     "moduleID": "TheUltracubeModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 20.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -10616,7 +10636,7 @@
   {
     "moduleDisplayName": "Thinking Wires",
     "moduleID": "thinkingWiresModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -10636,7 +10656,7 @@
   {
     "moduleDisplayName": "Third Base",
     "moduleID": "ThirdBase",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -10653,7 +10673,7 @@
   {
     "moduleDisplayName": "Thonking",
     "moduleID": "ThonkingModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 5.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -10673,7 +10693,7 @@
   {
     "moduleDisplayName": "Tic Tac Toe",
     "moduleID": "TicTacToeModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -10713,8 +10733,8 @@
   {
     "moduleDisplayName": "Timing is Everything",
     "moduleID": "timingIsEverything",
-    "moduleScoreOverride": true,
-    "moduleScore": 3.0,
+    "moduleScoreOverride": false,
+    "moduleScore": 5.0,
     "moduleScoreIsDynamic": false,
     "announceModule": true,
     "unclaimable": true,
@@ -10733,7 +10753,7 @@
   {
     "moduleDisplayName": "Toon Enough",
     "moduleID": "toonEnough",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -10753,8 +10773,8 @@
   {
     "moduleDisplayName": "Tower of Hanoi",
     "moduleID": "towerOfHanoi",
-    "moduleScoreOverride": true,
-    "moduleScore": 10.0,
+    "moduleScoreOverride": false,
+    "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "unclaimable": false,
@@ -10773,7 +10793,7 @@
   {
     "moduleDisplayName": "Transmitted Morse",
     "moduleID": "transmittedMorseModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -10793,7 +10813,7 @@
   {
     "moduleDisplayName": "Treasure Hunt",
     "moduleID": "treasureHunt",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -10833,7 +10853,7 @@
   {
     "moduleDisplayName": "Turn The Key",
     "moduleID": "TurnTheKey",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 3.0,
     "moduleScoreIsDynamic": false,
     "announceModule": true,
@@ -10850,7 +10870,7 @@
   {
     "moduleDisplayName": "Turn The Keys",
     "moduleID": "TurnTheKeyAdvanced",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": true,
@@ -10867,7 +10887,7 @@
   {
     "moduleDisplayName": "Turtle Robot",
     "moduleID": "turtleRobot",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 15.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -10887,7 +10907,7 @@
   {
     "moduleDisplayName": "Two Bits",
     "moduleID": "TwoBits",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 6.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -10904,7 +10924,7 @@
   {
     "moduleDisplayName": "T-Words",
     "moduleID": "tWords",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 5.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -10921,8 +10941,8 @@
   {
     "moduleDisplayName": "Übermodule",
     "moduleID": "ubermodule",
-    "moduleScoreOverride": true,
-    "moduleScore": 0.0,
+    "moduleScoreOverride": false,
+    "moduleScore": 5.0,
     "moduleScoreIsDynamic": true,
     "announceModule": true,
     "unclaimable": false,
@@ -10942,7 +10962,7 @@
     "moduleDisplayName": "Ultimate Cipher",
     "moduleID": "ultimateCipher",
     "moduleScoreOverride": false,
-    "moduleScore": 5.0,
+    "moduleScore": 30.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "unclaimable": false,
@@ -10955,14 +10975,14 @@
     "statusLightDown": false,
     "validCommandsOverride": false,
     "validCommands": null,
-    "DoesTheRightThing": false,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
     "moduleDisplayName": "Ultimate Cycle",
     "moduleID": "ultimateCycle",
-    "moduleScoreOverride": true,
-    "moduleScore": 30.0,
+    "moduleScoreOverride": false,
+    "moduleScore": 40.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "unclaimable": false,
@@ -10981,7 +11001,7 @@
   {
     "moduleDisplayName": "UltraStores",
     "moduleID": "UltraStores",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 40.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -11021,7 +11041,7 @@
   {
     "moduleDisplayName": "Unfair Cipher",
     "moduleID": "unfairCipher",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 15.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -11041,7 +11061,7 @@
   {
     "moduleDisplayName": "Unordered Keys",
     "moduleID": "unorderedKeys",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -11061,7 +11081,7 @@
   {
     "moduleDisplayName": "Unown Cipher",
     "moduleID": "UnownCipher",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -11081,7 +11101,7 @@
   {
     "moduleDisplayName": "Unrelated Anagrams",
     "moduleID": "unrelatedAnagrams",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 6.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -11101,7 +11121,7 @@
   {
     "moduleDisplayName": "USA Maze",
     "moduleID": "USA",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -11121,7 +11141,7 @@
   {
     "moduleDisplayName": "Valves",
     "moduleID": "valves",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -11141,7 +11161,7 @@
   {
     "moduleDisplayName": "Varicolored Squares",
     "moduleID": "VaricoloredSquaresModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 9.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -11161,7 +11181,7 @@
   {
     "moduleDisplayName": "Vectors",
     "moduleID": "vectorsModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 9.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -11201,7 +11221,7 @@
   {
     "moduleDisplayName": "Vigenére Cipher",
     "moduleID": "vegenereCipher",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -11221,7 +11241,7 @@
   {
     "moduleDisplayName": "Vigenère Cipher",
     "moduleID": "vigenereCipher",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 7.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -11241,7 +11261,7 @@
   {
     "moduleDisplayName": "Violet Cipher",
     "moduleID": "violetCipher",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 14.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -11261,7 +11281,7 @@
   {
     "moduleDisplayName": "Visual Impairment",
     "moduleID": "visual_impairment",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -11281,7 +11301,7 @@
   {
     "moduleDisplayName": "Waste Management",
     "moduleID": "wastemanagement",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 12.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -11301,7 +11321,7 @@
   {
     "moduleDisplayName": "Wavetapping",
     "moduleID": "Wavetapping",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 13.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -11341,8 +11361,8 @@
   {
     "moduleDisplayName": "Weird Al Yankovic",
     "moduleID": "weirdAlYankovic",
-    "moduleScoreOverride": true,
-    "moduleScore": 3.0,
+    "moduleScoreOverride": false,
+    "moduleScore": 2.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
     "unclaimable": false,
@@ -11381,7 +11401,7 @@
   {
     "moduleDisplayName": "White Cipher",
     "moduleID": "whiteCipher",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 13.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -11456,7 +11476,7 @@
   {
     "moduleDisplayName": "Wire Placement",
     "moduleID": "WirePlacementModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 4.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -11493,7 +11513,7 @@
   {
     "moduleDisplayName": "Wire Spaghetti",
     "moduleID": "wireSpaghetti",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 14.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -11530,7 +11550,7 @@
   {
     "moduleDisplayName": "Word Scramble",
     "moduleID": "WordScrambleModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 1.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -11567,7 +11587,7 @@
   {
     "moduleDisplayName": "X01",
     "moduleID": "X01",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 12.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -11587,7 +11607,7 @@
   {
     "moduleDisplayName": "X-Ray",
     "moduleID": "XRayModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 10.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -11607,7 +11627,7 @@
   {
     "moduleDisplayName": "Yahtzee",
     "moduleID": "YahtzeeModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -11627,7 +11647,7 @@
   {
     "moduleDisplayName": "Yellow Arrows",
     "moduleID": "yellowArrowsModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 5.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -11647,7 +11667,7 @@
   {
     "moduleDisplayName": "Yellow Cipher",
     "moduleID": "yellowCipher",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 16.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -11667,7 +11687,7 @@
   {
     "moduleDisplayName": "Yoinking E-Bucks",
     "moduleID": "Yoinkingmodule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 6.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -11687,7 +11707,7 @@
   {
     "moduleDisplayName": "Zoni",
     "moduleID": "lgndZoni",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 6.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -11707,7 +11727,7 @@
   {
     "moduleDisplayName": "Zoo",
     "moduleID": "ZooModule",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 8.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
@@ -11727,7 +11747,7 @@
   {
     "moduleDisplayName": "複雑漢字",
     "moduleID": "複雑漢字Module",
-    "moduleScoreOverride": true,
+    "moduleScoreOverride": false,
     "moduleScore": 5.0,
     "moduleScoreIsDynamic": false,
     "announceModule": false,
