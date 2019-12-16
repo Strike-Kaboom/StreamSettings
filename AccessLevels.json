@@ -328,7 +328,7 @@
     "pcowpcow": "User",
     "geisterhose89": "User",
     "fabi_m": "User",
-    "k_s_": "Defuser",
+    "k_s_": "SuperUser",
     "1geniusone": "User",
     "yayvinny": "User",
     "fartlicker777": "User",
@@ -392,7 +392,9 @@
     "edvardsm": "User",
     "mobotrongaming": "User",
     "neunthemein": "Banned",
-    "warwickjungler": "Defuser"
+    "warwickjungler": "Defuser",
+	"manyPinkHats": "Defuser",
+	"jackarific": "Defuser"
   },
   "Bans": {
     "bomb_griefer": {
@@ -486,6 +488,11 @@
       "BanExpiry": "Infinity"
     },
     "neunthemein": {
+      "BannedBy": "Strike_Kaboom",
+      "BannedReason": null,
+      "BanExpiry": "Infinity"
+    },
+    "gordohunter76543": {
       "BannedBy": "Strike_Kaboom",
       "BannedReason": null,
       "BanExpiry": "Infinity"
