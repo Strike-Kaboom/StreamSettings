@@ -10605,7 +10605,7 @@
     "moduleDisplayName": "Übermodule",
     "moduleID": "ubermodule",
     "moduleScoreOverride": false,
-    "moduleScoreIsDynamic": false,
+    "moduleScoreIsDynamic": true,
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
