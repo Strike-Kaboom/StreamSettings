@@ -85,7 +85,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": true,
-    "helpText": "!4 move L F R F U [move] | !4 walk L F R F U [walk slower] [L = left, R = right, F = forward, U = u-turn]",
+    "helpText": "!{0} move L F R F U [move] | !{0} walk L F R F U [walk slower] [L = left, R = right, F = forward, U = u-turn]",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightOverride": false,
@@ -10486,7 +10486,7 @@
     "moduleScoreOverride": false,
     "moduleScore": null,
     "moduleScoreIsDynamic": null,
-    "announceModule": false,
+    "announceModule": true,
     "unclaimable": false,
     "helpTextOverride": false,
     "helpText": "To submit with Tap code, use !{0} tap/press 42 (Must be exactly two numbers and must be in the range of 1 to 9). To submit with Morse code, use !{0} transmit/tx -..- To click the screen multiple times until the module solves, use !{0} spam. If there is already 1 input in Tap code, use !{0} tap 5 to enter the second input (must exactly be a single number) or !{0} reset to reset the input. However, reset command will NOT work if Morse Code was entered when the module was expecting Tap Code",
@@ -10498,7 +10498,7 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
-    "CameraPinningAlwaysAllowed": false
+    "CameraPinningAlwaysAllowed": true
   },
   {
     "moduleDisplayName": "Ultimate Cipher",
