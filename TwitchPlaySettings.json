@@ -55,6 +55,7 @@
   "TimeModeMinimumTimeLost": 15,
   "TimeModeMinimumTimeGained": 20,
   "AwardDropMultiplierOnStrike": 0.8,
+  "TimeModeTimeForActions": true,
   "EnableFactoryZenModeCameraWall": true,
   "EnableFactoryAutomaticNextBomb": true,
   "EnableZenModeForEveryone": true,

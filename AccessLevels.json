@@ -394,7 +394,8 @@
     "neunthemein": "Banned",
     "warwickjungler": "Defuser",
     "manypinkhats": "Defuser",
-    "jackarific": "Defuser"
+    "jackarific": "Defuser",
+    "_tpdebug": "Mod, Admin, SuperUser, Streamer"
   },
   "Bans": {
     "bomb_griefer": {
