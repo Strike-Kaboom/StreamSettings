@@ -1,0 +1,1 @@
+{"pageRotationsEnabled": false, "solutionTransformationsEnabled": true}

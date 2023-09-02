@@ -1,0 +1,4 @@
+{
+	"linesToClear": 20, 
+	"Note": "Lines to clear can be set between 10 to 10000." 
+}

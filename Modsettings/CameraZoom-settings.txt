@@ -1,0 +1,5 @@
+2
+
+Change the number above to tweak sensitivity.
+Make the number negative to invert the scroll direction.
+Any decimal value is valid.

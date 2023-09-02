@@ -1,0 +1,10 @@
+{
+  "CruelMode": false,
+  "HowToUse0": "Cruel mode forces the user to recognise the colors of the buttons without being told from the label.",
+
+  "VRMode": false,
+  "HowToUse1": "Mainly for VR, set this to true to prevent problems with the colored screen's KMSelectable. With it disabled, the screen must be held, and markers are disabled.",
+
+  "StreamDelay": 3,
+  "HowToUse2": "Mainly for TwitchPlays, set this to the amount of seconds of the stream delay. 1 second of stream delay equates to +15 additional seconds on the timer."
+}

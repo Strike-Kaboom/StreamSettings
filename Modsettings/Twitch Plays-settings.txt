@@ -1,0 +1,7 @@
+{
+    "authToken": "oauth:jiel4vlzfab0o7md9ci3ve0on8ocys",
+    "userName": "Strike_Kaboom",
+    "channelName": "Strike_Kaboom",
+    "serverName": "irc.twitch.tv",
+    "serverPort": 6697
+}

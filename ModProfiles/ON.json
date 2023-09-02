@@ -1,16 +1,22 @@
 {
   "DisabledList": [
-    "FactoryRoom",
-    "BusGameplayRoom",
-    "Portal Room",
-    "speakEnglish",
-    "GoCommitCoding",
-    "複雑漢字Module",
-    "TextAdventureModule",
-    "MagickaModule",
-    "meter",
-    "timingIsEverything",
-    "stockMarket"
+    "MemoryBuster",
+    "lookLookAway",
+    "ReportingAnomalies",
+    "double_on",
+    "KritGrandPrix",
+    "Microphone",
+    "matchmaker",
+    "polymodule",
+    "clockworks",
+    "GSCruelDialTrial",
+    "GSDialTrial",
+    "permutations",
+    "remotemath",
+    "BaseOffModule",
+    "GSTellMeWhy",
+    "zeroZero",
+    "CruelSimpleton"
   ],
   "Operation": 1
 }

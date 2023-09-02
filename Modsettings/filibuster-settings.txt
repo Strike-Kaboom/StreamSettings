@@ -1,0 +1,1 @@
+{"MicThreshold": 25.0, "FailureThreshold": 3}

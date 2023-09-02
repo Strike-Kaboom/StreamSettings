@@ -1,5 +1,6 @@
 {
   "ignoreSolveBased": true,
   "enableMoveToBack": true,
-  "disableTimeModeCooldown": false
+  "disableTimeModeCooldown": false,
+  "useSwitchVersion": false
 }

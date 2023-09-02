@@ -1,0 +1,23 @@
+{
+  "SettingsVersion": 1,
+  "HowToUse0": "Don't Touch this value. It is used by the mod internally to determine if there are new settings to be saved.",
+  "ResetToDefault": false,
+  "HowToReset": "Changing this setting to true will reset ALL your setting back to default.",
+  "Time": 300,
+  "TwitchPlaysTimeModeTime": 300,
+  "Modules": 3,
+  "Bombs": 1,
+  "Strikes": 3,
+  "WidgetsMinimum": 5,
+  "WidgetsMaximum": 8,
+  "ModuleDisableIndex": 0,
+  "NeedyModules": 0,
+  "VanillaModules": 50,
+  "DisabledModuleIds": [],
+  "FactoryMode": 0,
+  "PacingEvents": true,
+  "FrontFaceOnly": false,
+  "DuplicatesAllowed": true,
+  "HowToUse1": "The settings are saved automatically and persist across multiple sessions. No need to modify them here.",
+  "HowToUse2": "The only thing you might need to do here is use ResetToDefault, or simply remove the variables outright."
+}

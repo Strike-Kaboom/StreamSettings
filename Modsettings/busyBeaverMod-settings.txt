@@ -1,0 +1,4 @@
+{
+	"legacyMode": false,
+	"enforceExhibitionMode": false
+}

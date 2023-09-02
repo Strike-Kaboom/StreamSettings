@@ -1,0 +1,10 @@
+{
+  "enableLegacyUCR": false,
+  "cruelerRevenge": false,
+  "noTPCruelerRevenge": false,
+  "debugUCR": false,
+  "debugNumPairsInstructions": 3,
+  "debugCiphersIdxes": null,
+  "resetSettings": false,
+  "version": "2.1"
+}

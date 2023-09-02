@@ -1,0 +1,4 @@
+{ 	 	
+	"stageTime": 20,
+	"note": "20 recommended for normal play, 60 for Twitch Plays."
+}

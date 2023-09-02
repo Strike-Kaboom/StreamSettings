@@ -1,0 +1,22 @@
+{
+  "UseAuthorDynamicScoring": true,
+  "EnableExperimentalStrikeRedirect": false,
+  "ECExhibitionMode": false,
+  "ECDynamicStageGen": true,
+  "ECBlacklistStageTypeIdxes": [],
+  "SGTExhibitionMode": false,
+  "SGTPlayCamelliaTracks": false,
+  "SGTMaxStagesAhead": 15,
+  "SGTMaxStagesBehind": 5,
+  "SGTDynamicScalingRanges": [
+    2.5,
+    2.0,
+    2.0,
+    1.5,
+    1.25,
+    1.0
+  ],
+  "SGTRequireAllStages": false,
+  "PPUseAlternativeGen": false,
+  "PPPointsPerActivation": 2
+}

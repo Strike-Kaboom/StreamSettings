@@ -1,10 +1,14 @@
 {
   "DisabledList": [
     "spwizTetris",
-    "LightsOut",
     "EdgeworkModule",
-    "EncryptedValuesModule",
-    "QRCode"
+    "NeedyAirTrafficController",
+    "NeedyPong",
+    "hideAndSeek",
+    "gameOfLifeNeedy",
+    "rgbLogic",
+    "rapidSubtraction",
+    "needy_vector_addition"
   ],
   "Operation": 1
 }

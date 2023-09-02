@@ -1,0 +1,10 @@
+{
+  "enableLabeledPriorities": true,
+  "enableUnlabeledPriorities": true,
+  "enableRelabeledPriorities": true,
+  "enableMislabeledPriorities": true,
+  "LabeledPrioritiesTPScore": 5,
+  "UnlabeledPrioritiesTPScore": 5,
+  "RelabeledPrioritiesTPScore": 9,
+  "MislabeledPrioritiesTPScore": 9
+}

@@ -1,0 +1,197 @@
+{
+	// Configuration file for the mod "Translated modules"
+	//
+	// This file's name should be "TranslatedModules-settings.txt".
+	// If you are currently editing a file named "modSettings.json", then you are messing with the wrong file!
+	// (Refer to the mod's Steam page for a detailed installation instruction)
+	//
+	//
+	// Lines starting with // are comments and ignored by the mod.
+	//
+	// If you edit this file, BE VERY CAREFUL TO KEEP THE COMMAS AND BRACKETS!
+	// Should you ever mess it up (mod starting with language set to English)
+	// you can just delete this file and a clean file will be recreated on next start.
+	//
+	// Set desired language here.
+	// Allowed values are: "cs" (čeština)
+	//                     "da" (Dansk), 
+	//                     "de" (Deutsch), 
+	//                     "en" (English), 
+	//                     "et" (Eesti), 
+	//                     "es" (Español),
+	//                     "eo" (Esperanto), 
+	//                     "fr" (Français), 
+	//                     "he" (עברית), 
+	//                     "ko" (한국어),
+	//                     "it" (Italiano), 
+	//                     "nl" (Nederlands), 
+	//                     "no" (Norsk), 
+	//                     "jp" (日本語), 
+	//                     "pl" (Polski), 
+	//                     "pt-br" (Português do Brasil), 
+	//                     "ru" (Русский), 
+	//                     "fi" (Suomi), 
+	//                     "sv" (Svenska),
+	//                     "th" (ไทย),
+	//                     "zh-cn" (中文)
+	//                     "cu" (Custom - see below)
+	//                     If your language is missing, while you think it should be supported
+	//                     already, please try deleting this file and restart the game so an updated
+	//                     file will be recreated
+	"CurrentLanguages": ["de"],
+
+
+
+
+
+	// Additionally you can translate the mod into your language or create new word lists 
+	// by editing the lines below. If you just want to use a language shipped with this mod you 
+	// can ignore everything below
+	//
+	// IF YOU EDIT THIS FILE, BE VERY CAREFUL TO KEEP THE COMMAS AND BRACKETS.
+	// (This file uses Hjson format (https://hjson.org), which is basically json with comments and more error tolerance)
+	
+	
+	//OutputManual
+	//If set to true, the html manual with the language set above is written into Keep Talking's mod settings directory
+	//after starting the game (The directory where you should have found this config file).
+	//To create a pdf from that html, open it in Chrome and print it to pdf. Make sure to set page format "Letter" in the printing options and 
+	//do NOT use "A4" (otherwise your manual page will have a slightly different width when merged with other mod manuals)!
+	
+	"OutputManual": false,
+	
+	
+	"Languages": 
+	[
+	
+		{
+			"languageId":   "cu",
+			"languageName": "Custom minimal example", 
+			"font":         "Default", 
+			"displays":     ["YES","FIRST","DISPLAY","OKAY","SAYS","NOTHING","  ","BLANK","NO","LED","LEAD","READ","RED","REED","LEED","HOLD ON","YOU","YOU ARE","YOUR","YOU'RE","UR","THERE","THEY'RE","THEIR","THEY ARE","SEE","C","CEE"],
+			"buttons":      ["READY","FIRST","NO","BLANK","NOTHING","YES","WHAT","UHHH","LEFT","RIGHT","MIDDLE","OKAY","WAIT","PRESS","YOU","YOU ARE","YOUR","YOU'RE","UR","U","UH HUH","UH UH","WHAT?","DONE","NEXT","HOLD","SURE","LIKE"],
+			"passwords":    ["about","after","again","below","could","every","first","found","great","house","large","learn","never","other","place","plant","point","right","small","sound","spell","still","study","their","there","these","thing","think","three","water","where","which","world","would","write"],
+			"submitLabel":  "SUBMIT",
+			
+			//You can omit the manual, in this case the English manual text is used (but with the button and display labels of this language of course)
+		},
+	
+	
+//COMPLETE EXAMPLE
+	
+		{
+			//Short id, used to identify the language (see above) and first two characters are shown on the bar code decal.
+			"languageId":  "c2",  
+
+			//Language name
+			"languageName": "Custom example with important hints", 
+
+			//Ingame font used for this language. Allowed values are: 
+			//    Default: Latin characters, most accents included (Buttons: Ostrich Sans, Display: Arial). Falls back to Arial when a character is missing. 
+			//    BebasNeue: Close to Default, but more characters, including Cyrillic (Buttons: Bebas Neue, Display: Arial).
+			//    Japanese: Japanese font, only contains letters actually used in this mod. NOT recommended for custom languages (MeiryoUI for buttons and display). Post into the mod's discussions if you need additional Japanese characters. 
+			//    Arial: Most real life characters, but pretty wide, so you'll have only about 5 characters on a button (Arial for buttons and display). Japanese fonts are rendered in a Chinese variant.
+			//    OstrichSans: Latin; Use the narrow Ostrich Fonts everywhere. Allows longer Who's on First display words. Falls back to Arial when a character is missing. 
+			"font": "Default", 
+			
+			//Who's on First: 28 words which can occur in the display. Copy this "  " for a literally blank entry (2x Unicode #2003, "EM SPACE"; Standard spaces would be collapsed in the manual due to html's whitespace handling).
+			"displays":    ["YES","FIRST","DISPLAY","OKAY","SAYS","NOTHING","  ","BLANK","NO","LED","LEAD","READ","RED","REED","LEED","HOLD ON","YOU","YOU ARE","YOUR","YOU'RE","UR","THERE","THEY'RE","THEIR","THEY ARE","SEE","C","CEE"],
+			
+			//Who's on First: 28 Words which can occur on the buttons. Copy this "  " for a literally blank entry (details above).
+			//The vanilla module has an overlap of 11 words which can occur on both display and buttons.
+			"buttons":     ["READY","FIRST","NO","BLANK","NOTHING","YES","WHAT","UHHH","LEFT","RIGHT","MIDDLE","OKAY","WAIT","PRESS","YOU","YOU ARE","YOUR","YOU'RE","UR","U","UH HUH","UH UH","WHAT?","DONE","NEXT","HOLD","SURE","LIKE"],
+			
+			//The major version appears on the module on a bar code decal, so players can verify the module's language and version.
+			//Increase major version (first digit) only when a manual reprint is required, e.g. when replacing a word in the Who's on First list
+			//Increase minor version (second digit) when modification does NOT change the rules, like improving the manual translation. Reset when increasing the major version.
+			"whosOnFirstVersion": "1.0",
+					
+			//Passwords: Password module's password list, 35 words (Latin, Cyrillic and lot of other writing systems allowed, including most accents). You DO need to sort them. Please post into the mod's discussion, if you miss a special character in game and I will add it. 
+			"passwords":   ["about","after","again","below","could","every","first","found","great","house","large","learn","never","other","place","plant","point","right","small","sound","spell","still","study","their","there","these","thing","think","three","water","where","which","world","would","write"],
+
+			//Passwords: Label on the submit button of the passwords module.
+			"submitLabel": "SUBMIT",
+			
+			//Same as whosOnFirstVersion (see above), but for the passwords module
+			"passwordsVersion" : "1.0",
+			
+			//Vent gas text; Line-breaks have to be set manually (with \n). Three lines max. 
+			//Third line is replaced with answer after pressing a button, so only use it for things like 'Y/N'.
+			"ventGas":     "VENT GAS?\nY/N",
+			"preventExp":  "VENTING\nPREVENTS\nEXPLOSIONS",
+			"complete":    "VENTING\nCOMPLETE",
+			"detonate":    "DETONATE?\nY/N",
+			"yes":         "YES",
+			"no":          "NO",
+			"yesLabel":    "Y",
+			"noLabel":     "N",
+			"ventVersion": "1.0",
+			
+			//Labels for Big Button Module; Order is important, so the first label is used for the first rule (Button is blue and says "Abort") and so on.
+			"BigButtonLabels" : ["ABORT","DETONATE","HOLD","PRESS"],
+			
+			//Same as whosOnFirstVersion (see above), but for the button module
+			"bigButtonVersion": "1.0",
+			
+			//Allowed characters are (OUTDATED - there are currently about 350 characters and a couple of digraphs allowed): abcdeêfghiîïjklmnoôpqrstuûvwxyz1234567890äæąåàćĉçęèéłĝĥĵñńöóœśŝßüŭźżабвгдежзийклмнопрстуфхцчшщъыьэюя
+			//Allowed digraphs (character pairs, which have their own Morse code) so far: (ch), (sz), (cz). 
+			//Put digraphs in braces, e.g.: a(ch)tung
+			"morseWords": ["shell", "halls", "slick", "trick", "boxes", "leaks", "strobe", "bistro", "flick", "bombs", "break", "brick", "steak", "sting", "vector", "beats"],
+			"morseVersion": "1.0",
+
+			//Beginning of manual
+			
+			//Used in the manual. The text <!--VERSION-LABEL--> is automatically replaced with the actual identifier (Language ID + version number), so keep that part as it is.
+			"versionHint": "Make sure there is a bar code sticker on the module labeled “<!--VERSION-LABEL-->”, otherwise, this is not the correct manual.",
+			
+			//make sure to keep the html tags intact, e.g. the lists start with <ol> and end with </ol> and enclose every bulletpoint with <li> and </li>. For underling use <u> and </u>.
+			//If you want to use vertical quotes (") within a text, then it must be escaped with a \ in front of it e.g. >> press the \"SUBMIT\" button <<. Or just use other quotation marks like “these”.
+			"whosOnFirstManual":
+			{
+				"title": "Who's on First (Custom Lang)",
+				"subject": "On the Subject of Who’s on First (Custom Lang)",
+				"flavourText": "This contraption is like something out of a sketch comedy routine, which might be funny if it wasn't connected to a bomb. I’ll keep this brief, as words only complicate matters.",
+				"instructionList": "<ol><li>Read the display and use step 1 to determine which button label to <u>read</u>.</li><li>Using this button label, use step 2 determine which button to <u>push</u>.</li><li>Repeat until the module has been disarmed.</li></ol>",
+				"stepOneCaption": "Step 1:",
+				"stepOneText": "Based on the display, <u>read</u> the label of a particular button and proceed to step 2:",
+				"stepTwoCaption": "Step 2:",
+				"stepTwoText": "Using the label from step 1, <u>push the first button</u> that appears in its corresponding list:"
+			},
+			"passwordsManual":
+			{
+				"title": "Passwords (Custom Lang)",
+				"subject": "On the Subject of Passwords (Custom Lang)",
+				"flavourText": "Fortunately this password doesn't seem to meet standard government security requirements: 22 characters, mixed case, numbers in random order without any palindromes above length 3.",
+				"instructionList": "<ul><li>The buttons above and below each letter will cycle through the possibilities for that position.</li><li>Only one combination of the available letters will match a password below.</li><li>Press the submit button once the correct word has been set.</li></ul>"
+			},
+			"theButtonManual": {
+				"title": "The Button (Custom Lang)",
+				"subject": "On the Subject of The Button (Custom Lang)",
+				"flavourText": "You might think that a button telling you to press it is pretty straightforward.<br>That’s the kind of thinking that gets people exploded.",
+				"appendixRef": "See Appendix A for indicator identification reference.<br>See Appendix B for battery identification reference.",
+				
+				//The texts <!--LABEL1--> <!--LABEL2--> and <!--LABEL3--> are automatically replaced with the actual labels
+				"instructionList": "Follow these rules in the order they are listed. Perform the first action that applies:<ol><li>If the button is blue and the button says “<!--LABEL1-->”, hold the button and refer to “Releasing a Held Button”.</li><li>If there is more than 1 battery on the bomb and the button says “<!--LABEL2-->”, press and immediately release the button.</li><li>If the button is white and there is a lit indicator with label CAR, hold the button and refer to “Releasing a Held Button”.</li><li>If there are more than 2 batteries on the bomb and there is a lit indicator with label FRK, press and immediately release the button.</li><li>If the button is yellow, hold the button and refer to “Releasing a Held Button”.</li><li>If the button is red and the button says “<!--LABEL3-->”, press and immediately release the button.</li><li>If none of the above apply, hold the button and refer to “Releasing a Held Button”.</li></ol>",
+				"stepOneCaption": "Releasing a Held Button",
+				"stepOneText": "If you start holding the button down, a colored strip will light up on the right side of the module. Based on its color you must release the button at a specific point in time:<ul><li><u>Blue strip:</u> release when the countdown timer has a 4 in any position.</li><li><u>White strip:</u> release when the countdown timer has a 1 in any position.</li><li><u>Yellow strip:</u> release when the countdown timer has a 5 in any position.</li><li><u>Any other color strip:</u> release when the countdown timer has a 1 in any position.</li></ul>"
+			},
+			"morseCodeManual": {
+				//Each space in the character list converts to a free line.
+				//Put digraphs (character pairs, which have their own Morse code) in braces, e.g.: ...xyz(ch)
+				"morseCharacterList": "abcdefghijklmnopqrstuvwxyz    1234567890",
+				"title": "Morse Code (English)",
+				"subject": "On the Subject of Morse Code (English)",
+				"flavourText": "An antiquated form of naval communication? What next? At least it's genuine Morse Code, so pay attention and you might just learn something.",
+				"instructionList": "<ul><li> Interpret the signal from the flashing light using the Morse Code chart to spell one of the words in the table.</li ><li> The signal will loop, with a long gap between repetitions.</li><li> Once the word is identified, set the corresponding frequency and press the transmit (TX) button.</li></ul>",
+				"stepOneCaption": "How to Interpret",
+				"stepOneText": "<ol><li>A short flash represents a dot.</li><li>A long flash represents a dash.</li><li>There is a long gap between letters.</li><li> There is a very long gap before the word repeats.</li></ol>",
+				"stepTwoCaption": "If the word is:",
+				"stepTwoCaption2": "Respond at frequency:"
+			}
+		}
+		//end of example "c2"
+		
+	]
+}
+
+

@@ -1,0 +1,35 @@
+{
+  "FadeTime": 0.01,
+  "InstantSkip": true,
+  "ManageHarmonyMods": false,
+  "SkipGameplayDelay": true,
+  "BetterCasePicker": true,
+  "EnableModsOnlyKey": true,
+  "DemandBasedModLoading": true,
+  "DemandBasedModsExcludeList": [],
+  "DemandModLimit": 101,
+  "ReplaceObsoleteMods": true,
+  "SubscribeToNewMods": true,
+  "BombHUD": "On",
+  "ShowEdgework": true,
+  "DisableAdvantageous": "Off",
+  "ShowTips": true,
+  "HideTOC": [],
+  "Mode": "Normal",
+  "MissionSeed": -1,
+  "CaseGenerator": true,
+  "ModuleTweaks": true,
+  "CaseColors": [],
+  "Holdables": {
+    "BombBinder": true,
+    "DossierMenu": true,
+    "BombCreator": true,
+    "ModSelectorTablet": true,
+    "FreeplayDevice": true,
+    "ModManager": true,
+    "IRCManager": true
+  },
+  "LocalMods": [
+  ],
+  "PinnedSettings": []
+}

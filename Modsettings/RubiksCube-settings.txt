@@ -1,0 +1,6 @@
+{
+  "HowToUse1": "This Setting determines how the Cube rotation works in Twitch Plays",
+  "HowToUse2": "The original method Rotates the bomb in order to view the cube sides. (and as of now, whatever side camera view that is active on that module)",
+  "HowToUse3": "The New method actually rotates the cube itself in order to view the sides.",
+  "UseOriginalTwitchPlaysRotationMethod": false
+}

@@ -1,0 +1,8 @@
+{
+  "Info": [
+    "Mode: To use standard mode, use Standard or 0. For memory mode, use Memory or 1.",
+    "AutoReset: Have the module automatically reset on strikes in Memory Mode. Set to true or false."
+  ],
+  "Mode": "Standard",
+  "AutoReset": true
+}

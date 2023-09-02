@@ -1,0 +1,9 @@
+{
+  "EnforceComponents": false,
+  "EnforceByModID": false,
+  "EnforceWires": false,
+  "EnforceSymbols": false,
+  "EnforceAlphabet": false,
+  "EnforceLEDs": false,
+  "EnforceArrows": false
+}

@@ -1,0 +1,5 @@
+{ 	 	
+	"lowerBound": 45,
+	"upperBound": 60,
+	"note": "Default: 45-60 seconds. If the times are equal, or the lower bound is greater than the upper bound, the settings will revert to default."
+}

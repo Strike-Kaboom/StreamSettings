@@ -1,0 +1,24 @@
+{
+  "DisabledList": [
+    "redCipher",
+    "orangeCipher",
+    "yellowCipher",
+    "indigoCipher",
+    "violetCipher",
+    "blueCipher",
+    "greenCipher",
+    "blackCipher",
+    "grayCipher",
+    "whiteCipher",
+    "brownCipher",
+	"coralCipher",
+	"creamCipher",
+	"crimsonCipher",
+	"magentaCipher",
+	"maroonCipher",
+    "ultimateCipher",
+	"forestCipher",
+	"cornflowerCipher"
+  ],
+  "Operation": 1
+}

@@ -1,0 +1,4 @@
+{
+  "_note": "delay of cube movements; lower number = faster",
+  "cubeSpeedMultiplier": 0.75
+}

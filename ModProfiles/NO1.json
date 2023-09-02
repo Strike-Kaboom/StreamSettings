@@ -1,7 +1,35 @@
 {
   "DisabledList": [
-    "HotPotato",
-    "MotionSense"
+    "Needy Math",
+    "LightsOut",
+    "NeedyKnobV2",
+    "http",
+    "EternitySDec",
+    "QRCode",
+    "rapidButtons",
+    "determinant",
+    "KritCMDPrompt",
+    "needyMrsBob",
+    "simonSquawks",
+    "aa",
+    "triangleButtons",
+    "EncryptedValuesModule",
+    "romanNumeralsModule",
+    "needyPiano",
+    "boozleglyphIdentification",
+    "hyperneedy",
+    "rotatingSquares",
+    "NotCapacitorDischarge",
+    "NotVentingGas",
+    "shuffledStrings",
+    "simonStashes",
+    "NotKnob",
+    "runeMatchI",
+    "runeMatchIII",
+    "GSDoubleKnob",
+    "needyModuleAlarm",
+    "AreaSplitNeedy",
+    "functionIdentification"
   ],
   "Operation": 1
 }

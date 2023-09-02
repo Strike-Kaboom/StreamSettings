@@ -1,4 +1,8 @@
 {
   "timerdashthreshold": 30,
-  "countIgnoredModules": true
+  "countIgnoredModules": true,
+  "generateStagesEarly": true,
+  "hardModeEnable": false,
+  "useLegacyTiming": false,
+  "dashTimeLengthModern": 0.5
 }

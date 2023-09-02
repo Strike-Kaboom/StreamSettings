@@ -1,0 +1,394 @@
+{
+  "SiteUrl": "https://ktane.timwi.de/More/YesAndNo/YesAndNoAllQuestions.json",
+  "questions": [
+    {
+      "Output": "Is the sun hot?",
+      "Answer": 1
+    },
+    {
+      "Output": "Is a dog a reptile?",
+      "Answer": 0
+    },
+    {
+      "Output": "Are you human?",
+      "Answer": 1
+    },
+    {
+      "Output": "Is green a warm color?",
+      "Answer": 0
+    },
+    {
+      "Output": "Is blue a cold color?",
+      "Answer": 1
+    },
+    {
+      "Output": "Do penguins wear a tuxedo?",
+      "Answer": 0
+    },
+    {
+      "Output": "Is Chile in China?",
+      "Answer": 0
+    },
+    {
+      "Output": "Is this a module?",
+      "Answer": 1
+    },
+    {
+      "Output": "Are you currently sleeping?",
+      "Answer": 0
+    },
+    {
+      "Output": "Is it the year 1992?",
+      "Answer": 0
+    },
+    {
+      "Output": "Are you affected by gravity?",
+      "Answer": 1
+    },
+    {
+      "Output": "Do pigs fly?",
+      "Answer": 0
+    },
+    {
+      "Output": "Do cows give milk?",
+      "Answer": 1
+    },
+    {
+      "Output": "Is the skin an organ?",
+      "Answer": 1
+    },
+    {
+      "Output": "Is human blood red?",
+      "Answer": 1
+    },
+    {
+      "Output": "Is fire hot?",
+      "Answer": 1
+    },
+    {
+      "Output": "Is KTaNE something to eat?",
+      "Answer": 0
+    },
+    {
+      "Output": "Press YES",
+      "Answer": 1
+    },
+    {
+      "Output": "Press NO",
+      "Answer": 0
+    },
+    {
+      "Output": "Don't press YES",
+      "Answer": 0
+    },
+    {
+      "Output": "Don't press NO",
+      "Answer": 1
+    },
+    {
+      "Output": "Don't not press YES",
+      "Answer": 1
+    },
+    {
+      "Output": "Don't not press NO",
+      "Answer": 0
+    },
+    {
+      "Output": "Is this Left and Right?",
+      "Answer": 0
+    },
+    {
+      "Output": "Is this Yes and No?",
+      "Answer": 1
+    },
+    {
+      "Output": "Is there a manual for this?",
+      "Answer": 1
+    },
+    {
+      "Output": "Is wood a liquid?",
+      "Answer": 0
+    },
+    {
+      "Output": "Do submarines breathe?",
+      "Answer": 0
+    },
+    {
+      "Output": "I say the truth - press YES",
+      "Answer": 1
+    },
+    {
+      "Output": "I lie - press YES",
+      "Answer": 0
+    },
+    {
+      "Output": "I don't say the truth - press YES",
+      "Answer": 0
+    },
+    {
+      "Output": "I'm not lying - press YES",
+      "Answer": 1
+    },
+    {
+      "Output": "I pressed YES, do the same",
+      "Answer": 1
+    },
+    {
+      "Output": "Don't not press not YES",
+      "Answer": 0
+    },
+    {
+      "Output": "Don't not press not NO",
+      "Answer": 1
+    },
+    {
+      "Output": "SEY sserP",
+      "Answer": 1
+    },
+    {
+      "Output": "ON sserP",
+      "Answer": 0
+    },
+    {
+      "Output": "I pressed NO, do the same",
+      "Answer": 0
+    },
+    {
+      "Output": "I pressed YES, don't do the same",
+      "Answer": 0
+    },
+    {
+      "Output": "I pressed NO, don't do the same",
+      "Answer": 1
+    },
+    {
+      "Output": "Is the earth flat?",
+      "Answer": 0
+    },
+    {
+      "Output": "Is this Minecraft?",
+      "Answer": 0
+    },
+    {
+      "Output": "Should you press the display?",
+      "Answer": 0
+    },
+    {
+      "Output": "Is this thing solvable?",
+      "Answer": 1
+    },
+    {
+      "Output": "+",
+      "Answer": 1
+    },
+    {
+      "Output": "-",
+      "Answer": 0
+    },
+    {
+      "Output": "Is this KTaNE?",
+      "Answer": 1
+    },
+    {
+      "Output": "Is a word in this question mispelled?",
+      "Answer": 1
+    },
+    {
+      "Output": "Is this module solved yet?",
+      "Answer": 0
+    },
+    {
+      "Output": "Does nothing start with n and end with g?",
+      "Answer": 1
+    },
+    {
+      "Output": "Are all bombs explosives?",
+      "Answer": 1
+    },
+    {
+      "Output": "Are all explosives bombs?",
+      "Answer": 0
+    },
+    {
+      "Output": "Is a solved Forget Me Not on this bomb?",
+      "Answer": 0
+    },
+    {
+      "Output": "Ds ths qstn hv ny vwls?",
+      "Answer": 0
+    },
+    {
+      "Output": "Ds ths qustn hv ny vwls?",
+      "Answer": 1
+    },
+    {
+      "Output": "Is this bomb entirely vanilla?",
+      "Answer": 0
+    },
+    {
+      "Output": "Words this in question any misordered are?",
+      "Answer": 1
+    },
+    {
+      "Output": "Do any modules present begin with a Y?",
+      "Answer": 1
+    },
+    {
+      "Output": "Is Italy a country?",
+      "Answer": 1
+    },
+    {
+      "Output": "Is Italy a county?",
+      "Answer": 0
+    },
+    {
+      "Output": "Do onions have layers?",
+      "Answer": 1
+    },
+    {
+      "Output": "Do onions have lawyers?",
+      "Answer": 0
+    },
+    {
+      "Output": "Does the government levy taxes?",
+      "Answer": 1
+    },
+    {
+      "Output": "Does the government levy taxis?",
+      "Answer": 0
+    },
+    {
+      "Output": "Is friendship magic?",
+      "Answer": 1
+    },
+    {
+      "Output": "Is Hakuna Matata a wonderful phrase?",
+      "Answer": 1
+    },
+    {
+      "Output": "Is Hakuna Matata a passing craze?",
+      "Answer": 0
+    },
+    {
+      "Output": "Is true xor true true?",
+      "Answer": 0
+    },
+    {
+      "Output": "Is true or true true?",
+      "Answer": 1
+    },
+    {
+      "Output": "Is 1 < 1?",
+      "Answer": 0
+    },
+    {
+      "Output": "Is this Keep Speaking and Nobody Explodes?",
+      "Answer": 0
+    },
+    {
+      "Output": "Is this Keep Talking and Nopony Explodes?",
+      "Answer": 0
+    },
+    {
+      "Output": "Is this Keep Talking and Nobody Explodes?",
+      "Answer": 1
+    },
+    {
+      "Output": "Is this Keep Talking and Nobody Implodes?",
+      "Answer": 0
+    },
+    {
+      "Output": "Is fish vegan?",
+      "Answer": 0
+    },
+    {
+      "Output": "Are fish vegan?",
+      "Answer": 0
+    },
+    {
+      "Output": "Are dragonflies flies?",
+      "Answer": 0
+    },
+    {
+      "Output": "Are beetles insects?",
+      "Answer": 1
+    },
+    {
+      "Output": "Are beetles in sects?",
+      "Answer": 0
+    },
+    {
+      "Output": "Are pencil leads lead?",
+      "Answer": 0
+    },
+    {
+      "Output": "Is grass green?",
+      "Answer": 1
+    },
+    {
+      "Output": "Is the sky blue?",
+      "Answer": 1
+    },
+    {
+      "Output": "Is the sky green?",
+      "Answer": 0
+    },
+    {
+      "Output": "Is grass blue?",
+      "Answer": 0
+    },
+    {
+      "Output": "Do cows drink milk?",
+      "Answer": 0
+    },
+    {
+      "Output": "Do cows drink water?",
+      "Answer": 1
+    },
+    {
+      "Output": "Do cows eat grass?",
+      "Answer": 1
+    },
+    {
+      "Output": "Do cows smoke grass?",
+      "Answer": 0
+    },
+    {
+      "Output": "Is The Hypercube four-dimensional?",
+      "Answer": 1
+    },
+    {
+      "Output": "Is The Ultracube five-dimensional?",
+      "Answer": 1
+    },
+    {
+      "Output": "Is The Hypercube five-dimensional?",
+      "Answer": 0
+    },
+    {
+      "Output": "Is The Ultracube four-dimensional?",
+      "Answer": 0
+    },
+    {
+      "Output": "Is the bomb timer > 0?",
+      "Answer": 1
+    },
+    {
+      "Output": "Is the bomb timer < 0?",
+      "Answer": 0
+    },
+    {
+      "Output": "Is it Feb 30?",
+      "Answer": 0
+    },
+    {
+      "Output": "Is it 2019?",
+      "Answer": 0
+    },
+    {
+      "Output": "Does Santa Claus have a beard?",
+      "Answer": 1
+    }
+  ],
+  "Version": 2
+}

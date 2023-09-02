@@ -1,0 +1,8 @@
+{
+  "SettingsVersion": 1,
+  "HowToUse0": "Don't Touch this value. It is used by the mod internally to determine if there are new settings to be saved.",
+  "ResetToDefault": false,
+  "HowToReset": "Changing this setting to true will reset ALL your setting back to default.",
+  "morseTickTime": 0.25,
+  "HowToUse1": "How long a morse time unit is, in seconds."
+}

@@ -1,0 +1,7 @@
+{
+	"note1": "Module language: 'ger' or 'eng'",
+	"lang": "eng",
+
+	"note2": "Convert temperatures? true or false",
+	"convertTemp": true
+}

@@ -1,0 +1,4 @@
+{ 	 	
+	"size": 4,
+	"note": "Default: 4. Maze size cannot be less than 2 or greater than 26."
+}

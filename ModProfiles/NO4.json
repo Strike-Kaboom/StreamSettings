@@ -1,11 +1,6 @@
 {
   "DisabledList": [
-    "KritCMDPrompt",
-    "commonSense",
-    "KritFlipTheCoin",
-    "needyPiano",
-    "EternitySDec",
-    "desertBus"
+    "faulty7SegmentDisplays"
   ],
   "Operation": 1
 }

@@ -1,0 +1,4 @@
+{
+	"countdownTime": 0.30f, 
+	"note": "To set the timer to x seconds, set countDownTime to x/100f.  Ex: 30 seconds = 0.30f.  Timer can be set  between 10 and 60 seconds."
+}

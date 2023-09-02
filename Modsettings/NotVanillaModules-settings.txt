@@ -1,0 +1,4 @@
+{
+  "TestModelChance": 0.0,
+  "AprilFoolsTestModelChance": 0.5
+}
